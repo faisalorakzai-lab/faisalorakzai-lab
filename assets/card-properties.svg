@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 440" width="860" height="440">
+  <defs>
+    <pattern id="linGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#D4AF37" stroke-width="0.12" opacity="0.18"/>
+    </pattern>
+    <linearGradient id="goldenEdge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="propGlow" cx="70%" cy="45%" r="35%">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="strongGlow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .grid-pulse { animation: gPulse 5s ease-in-out infinite; }
+      @keyframes gPulse { 0%,100%{opacity:0.8} 50%{opacity:1} }
+      .scan-diag { animation: sDiag 6s linear infinite; }
+      @keyframes sDiag { 0%{transform:translate(-860px,0);opacity:0} 5%{opacity:0.3} 95%{opacity:0.3} 100%{transform:translate(860px,0);opacity:0} }
+      .block-rise-1 { animation: bRise 3s ease-out 0.3s infinite; }
+      .block-rise-2 { animation: bRise 3s ease-out 0.9s infinite; }
+      .block-rise-3 { animation: bRise 3s ease-out 1.5s infinite; }
+      .block-rise-4 { animation: bRise 3s ease-out 2.1s infinite; }
+      @keyframes bRise { 0%,100%{opacity:0.15} 40%,60%{opacity:0.55} }
+      .corner-pulse { animation: cP 2.5s ease-in-out infinite; }
+      @keyframes cP { 0%,100%{opacity:0.4} 50%{opacity:1} }
+      .appear { animation: appear 1s ease-out forwards; opacity:0; }
+      .a1{animation-delay:0.2s}.a2{animation-delay:0.7s}.a3{animation-delay:1.1s}.a4{animation-delay:1.5s}
+      @keyframes appear { from{opacity:0} to{opacity:1} }
+      .ticker { animation: tick 18s linear infinite; }
+      @keyframes tick { 0%{transform:translateX(0)} 100%{transform:translateX(-50%)} }
+      .line-draw { animation: lDraw 2s ease-out 0.5s forwards; stroke-dashoffset: 400; stroke-dasharray: 400; }
+      @keyframes lDraw { to { stroke-dashoffset: 0; } }
+    </style>
+  </defs>
+
+  <rect width="860" height="440" fill="#000000"/>
+  <rect width="860" height="440" fill="url(#linGrid)" class="grid-pulse"/>
+  <rect width="860" height="440" fill="url(#propGlow)"/>
+  <!-- Top gold wash -->
+  <rect width="860" height="160" fill="url(#goldenEdge)"/>
+
+  <!-- Diagonal scan -->
+  <g class="scan-diag">
+    <rect x="0" y="0" width="2" height="440" fill="#D4AF37" opacity="0.3" transform="skewX(-20)"/>
+  </g>
+
+  <!-- Architectural building blocks - right side decoration -->
+  <g class="block-rise-1">
+    <rect x="620" y="140" width="50" height="220" fill="#0D0D0D" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+  </g>
+  <g class="block-rise-2">
+    <rect x="682" y="100" width="60" height="260" fill="#0D0D0D" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+  </g>
+  <g class="block-rise-3">
+    <rect x="754" y="160" width="40" height="200" fill="#0D0D0D" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+  </g>
+  <g class="block-rise-4">
+    <rect x="806" y="200" width="30" height="160" fill="#0D0D0D" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+  </g>
+  <!-- Skyline ground line -->
+  <line x1="600" y1="360" x2="840" y2="360" stroke="#D4AF37" stroke-width="0.8" opacity="0.4"/>
+
+  <!-- Corner brackets -->
+  <g class="corner-pulse">
+    <line x1="24" y1="24" x2="70" y2="24" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="24" y1="24" x2="24" y2="70" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="836" y1="24" x2="790" y2="24" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="836" y1="24" x2="836" y2="70" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="24" y1="416" x2="70" y2="416" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="24" y1="416" x2="24" y2="370" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="836" y1="416" x2="790" y2="416" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="836" y1="416" x2="836" y2="370" stroke="#D4AF37" stroke-width="1.5"/>
+  </g>
+
+  <!-- Horizontal accent line that draws itself -->
+  <line class="line-draw" x1="60" y1="82" x2="560" y2="82" stroke="#D4AF37" stroke-width="0.4" opacity="0.3"/>
+
+  <!-- Content -->
+  <g class="appear a1">
+    <text x="80" y="72"
+      font-family="'Courier New', Courier, monospace"
+      font-size="9" letter-spacing="4" fill="#D4AF37" opacity="0.6">ORAKZAI ECOSYSTEM · REAL ASSET DIVISION</text>
+  </g>
+
+  <g class="appear a2" filter="url(#strongGlow)">
+    <text x="80" y="158"
+      font-family="'Helvetica Neue', Arial, sans-serif"
+      font-size="48" font-weight="700" letter-spacing="5"
+      fill="#D4AF37">ORAKZAI</text>
+    <text x="80" y="208"
+      font-family="'Helvetica Neue', Arial, sans-serif"
+      font-size="40" font-weight="300" letter-spacing="8"
+      fill="#F5F5F5">PROPERTIES</text>
+  </g>
+
+  <g class="appear a2">
+    <rect x="80" y="220" width="340" height="1" fill="#D4AF37" opacity="0.8"/>
+  </g>
+
+  <g class="appear a3">
+    <text x="80" y="247"
+      font-family="'Helvetica Neue', Arial, sans-serif"
+      font-size="11" font-weight="300" letter-spacing="4"
+      fill="#D4AF37">REAL-WORLD ASSETS · PROPERTY SYSTEMS</text>
+  </g>
+
+  <g class="appear a3">
+    <text x="80" y="286"
+      font-family="'Helvetica Neue', Arial, sans-serif"
+      font-size="12" font-weight="300" fill="#888888">Bridging physical infrastructure with</text>
+    <text x="80" y="306"
+      font-family="'Helvetica Neue', Arial, sans-serif"
+      font-size="12" font-weight="300" fill="#888888">digital ownership and tokenized frameworks.</text>
+  </g>
+
+  <g class="appear a4">
+    <rect x="80" y="338" width="80" height="22" rx="2" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+    <text x="120" y="353" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" letter-spacing="1" fill="#D4AF37">RWA</text>
+
+    <rect x="172" y="338" width="120" height="22" rx="2" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+    <text x="232" y="353" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" letter-spacing="1" fill="#D4AF37">TOKENIZATION</text>
+
+    <rect x="304" y="338" width="104" height="22" rx="2" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+    <text x="356" y="353" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" letter-spacing="1" fill="#D4AF37">REAL ESTATE</text>
+  </g>
+
+  <!-- Ticker -->
+  <rect x="0" y="398" width="860" height="26" fill="#0A0A0A"/>
+  <line x1="0" y1="398" x2="860" y2="398" stroke="#D4AF37" stroke-width="0.5" opacity="0.4"/>
+  <g class="ticker">
+    <text y="415" font-family="'Courier New', monospace" font-size="9" letter-spacing="2" fill="#D4AF37" opacity="0.6">
+      <tspan x="20">ORAKZAI PROPERTIES · REAL-WORLD ASSETS · PROPERTY TOKENIZATION · DIGITAL OWNERSHIP · PHYSICAL INFRASTRUCTURE · </tspan>
+      <tspan>ORAKZAI PROPERTIES · REAL-WORLD ASSETS · PROPERTY TOKENIZATION · DIGITAL OWNERSHIP · PHYSICAL INFRASTRUCTURE · </tspan>
+    </text>
+  </g>
+</svg>
