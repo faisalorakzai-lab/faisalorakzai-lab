@@ -1,0 +1,38 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  isometric-calendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Isometric Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: faisalorakzai-lab
+          template: classic
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Karachi
+          config_output: svg
+          filename: assets/metrics-isocalendar.svg
+          config_padding: 0
+          extras_css: |
+            :root {
+              --color-calendar-graph-day-bg: #0d1117;
+              --color-calendar-graph-day-L1-bg: #1a1500;
+              --color-calendar-graph-day-L2-bg: #3d3000;
+              --color-calendar-graph-day-L3-bg: #7a5f00;
+              --color-calendar-graph-day-L4-bg: #D4AF37;
+            }
+            svg { background: #000 !important; }
+            text { fill: #888 !important; }
