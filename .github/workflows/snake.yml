@@ -1,0 +1,30 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: faisalorakzai-lab
+          outputs: |
+            assets/snake.svg?color_snake=#D4AF37&color_dot_empty=#0d1117&color_dot_1=#1a1500&color_dot_2=#3d3000&color_dot_3=#7a5f00&color_dot_4=#b8961a&color_dot_5=#D4AF37
+            assets/snake-dark.gif?color_snake=#D4AF37&color_dot_empty=#000000&color_dot_1=#111111&color_dot_2=#2a2200&color_dot_3=#5a4800&color_dot_4=#a0800e&color_dot_5=#D4AF37
+
+      - name: Commit snake files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add assets/snake.svg assets/snake-dark.gif || true
+          git diff --staged --quiet || git commit -m "chore: update contribution snake [skip ci]"
+          git push
