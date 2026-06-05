@@ -78,6 +78,34 @@ designed for the next generation of global markets.
 
 <div align="center">
 
+<sub>◈ &nbsp;&nbsp; P R O J E C T &nbsp; C O M M A N D &nbsp; C E N T E R &nbsp;&nbsp; ◈</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-okbond.svg" width="49%" alt="OKBOND"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-orakzaix.svg" width="49%" alt="ORAKZAIX"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-properties.svg" width="49%" alt="ORAKZAI PROPERTIES"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-shamimforever.svg" width="49%" alt="SHAMIM FOREVER"/>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
 <sub>◈ &nbsp;&nbsp; T E C H N O L O G Y &nbsp; M A T R I X &nbsp;&nbsp; ◈</sub>
 
 <br/><br/>
