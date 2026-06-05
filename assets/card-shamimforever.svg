@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 440" width="860" height="440">
+  <defs>
+    <pattern id="dotGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="15" cy="15" r="0.8" fill="#D4AF37" opacity="0.15"/>
+    </pattern>
+    <radialGradient id="roseGlow" cx="70%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="centerOrb" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="strongGlow">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="scanH" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#D4AF37" stop-opacity="0.4"/>
+      <stop offset="60%" stop-color="#D4AF37" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .dot-breathe { animation: dBreath 4s ease-in-out infinite; }
+      @keyframes dBreath { 0%,100%{opacity:0.6} 50%{opacity:1} }
+      .rose-ring-a { animation: roseA 14s linear infinite; transform-origin:690px 210px; }
+      .rose-ring-b { animation: roseB 20s linear infinite; transform-origin:690px 210px; }
+      .rose-ring-c { animation: roseA 9s linear infinite; transform-origin:690px 210px; }
+      @keyframes roseA { from{transform:rotate(0deg)} to{transform:rotate(360deg)} }
+      @keyframes roseB { from{transform:rotate(360deg)} to{transform:rotate(0deg)} }
+      .petal { animation: petalP 4s ease-in-out infinite; }
+      .petal-2 { animation: petalP 4s ease-in-out infinite; animation-delay:-1.3s; }
+      .petal-3 { animation: petalP 4s ease-in-out infinite; animation-delay:-2.6s; }
+      @keyframes petalP { 0%,100%{opacity:0.2;r:5} 50%{opacity:0.8;r:8} }
+      .scan-v { animation: sv 4.5s linear infinite; }
+      @keyframes sv { 0%{transform:translateY(-440px);opacity:0} 6%{opacity:0.45} 94%{opacity:0.45} 100%{transform:translateY(440px);opacity:0} }
+      .corner-glow { animation: cgPulse 3s ease-in-out infinite; }
+      @keyframes cgPulse { 0%,100%{opacity:0.4} 50%{opacity:1} }
+      .appear { animation: appear 1.1s ease-out forwards; opacity:0; }
+      .a1{animation-delay:0.2s}.a2{animation-delay:0.7s}.a3{animation-delay:1.1s}.a4{animation-delay:1.5s}
+      @keyframes appear { from{opacity:0} to{opacity:1} }
+      .ticker { animation: tick 16s linear infinite; }
+      @keyframes tick { 0%{transform:translateX(0)} 100%{transform:translateX(-50%)} }
+      .fragrance-wave { animation: fWave 3s ease-in-out infinite; }
+      .fragrance-wave-2 { animation: fWave 3s ease-in-out infinite; animation-delay:-1s; }
+      .fragrance-wave-3 { animation: fWave 3s ease-in-out infinite; animation-delay:-2s; }
+      @keyframes fWave { 0%,100%{transform:scaleX(0.9);opacity:0.1} 50%{transform:scaleX(1.1);opacity:0.3} }
+    </style>
+  </defs>
+
+  <rect width="860" height="440" fill="#000000"/>
+  <rect width="860" height="440" fill="url(#dotGrid)" class="dot-breathe"/>
+  <rect width="860" height="440" fill="url(#roseGlow)"/>
+
+  <!-- Scan line -->
+  <g class="scan-v">
+    <rect x="0" y="0" width="860" height="1.5" fill="url(#scanH)" opacity="0.6"/>
+  </g>
+
+  <!-- Right decoration: Fragrance orb -->
+  <!-- Fragrance aura waves -->
+  <g class="fragrance-wave">
+    <ellipse cx="690" cy="210" rx="130" ry="155" fill="none" stroke="#D4AF37" stroke-width="0.4" opacity="0.1"/>
+  </g>
+  <g class="fragrance-wave-2">
+    <ellipse cx="690" cy="210" rx="110" ry="130" fill="none" stroke="#D4AF37" stroke-width="0.4" opacity="0.12"/>
+  </g>
+  <g class="fragrance-wave-3">
+    <ellipse cx="690" cy="210" rx="88" ry="105" fill="none" stroke="#D4AF37" stroke-width="0.4" opacity="0.15"/>
+  </g>
+
+  <!-- Spinning rings -->
+  <g class="rose-ring-a">
+    <ellipse cx="690" cy="210" rx="70" ry="70" fill="none" stroke="#D4AF37" stroke-width="0.6" opacity="0.2" stroke-dasharray="5 12"/>
+  </g>
+  <g class="rose-ring-b">
+    <ellipse cx="690" cy="210" rx="48" ry="48" fill="none" stroke="#D4AF37" stroke-width="0.5" opacity="0.25" stroke-dasharray="3 8"/>
+  </g>
+  <g class="rose-ring-c">
+    <ellipse cx="690" cy="210" rx="26" ry="26" fill="none" stroke="#D4AF37" stroke-width="0.8" opacity="0.3" stroke-dasharray="2 6"/>
+  </g>
+  <!-- Center -->
+  <circle cx="690" cy="210" r="18" fill="url(#centerOrb)" opacity="0.4"/>
+  <circle cx="690" cy="210" r="14" fill="#000000" stroke="#D4AF37" stroke-width="0.8" opacity="0.9"/>
+  <text x="690" y="214" text-anchor="middle"
+    font-family="'Helvetica Neue', Arial, sans-serif" font-size="7" font-weight="700" letter-spacing="0.5"
+    fill="#D4AF37">SF</text>
+
+  <!-- Petal nodes -->
+  <circle class="petal" cx="690" cy="140" r="5" fill="#D4AF37"/>
+  <circle class="petal-2" cx="750" cy="248" r="5" fill="#D4AF37"/>
+  <circle class="petal-3" cx="630" cy="248" r="5" fill="#D4AF37"/>
+
+  <!-- Corner brackets -->
+  <g class="corner-glow">
+    <line x1="24" y1="24" x2="70" y2="24" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="24" y1="24" x2="24" y2="70" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="836" y1="24" x2="790" y2="24" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="836" y1="24" x2="836" y2="70" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="24" y1="416" x2="70" y2="416" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="24" y1="416" x2="24" y2="370" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="836" y1="416" x2="790" y2="416" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="836" y1="416" x2="836" y2="370" stroke="#D4AF37" stroke-width="1.5"/>
+  </g>
+
+  <!-- Content -->
+  <g class="appear a1">
+    <text x="80" y="72"
+      font-family="'Courier New', Courier, monospace"
+      font-size="9" letter-spacing="4" fill="#D4AF37" opacity="0.6">ORAKZAI ECOSYSTEM · LUXURY COMMERCE DIVISION</text>
+  </g>
+  <line x1="60" y1="82" x2="540" y2="82" stroke="#D4AF37" stroke-width="0.4" opacity="0.3"/>
+
+  <g class="appear a2" filter="url(#strongGlow)">
+    <text x="80" y="158"
+      font-family="'Helvetica Neue', Arial, sans-serif"
+      font-size="42" font-weight="700" letter-spacing="5"
+      fill="#D4AF37">SHAMIM</text>
+    <text x="80" y="210"
+      font-family="'Helvetica Neue', Arial, sans-serif"
+      font-size="42" font-weight="300" letter-spacing="8"
+      fill="#F5F5F5">FOREVER</text>
+  </g>
+
+  <g class="appear a2">
+    <rect x="80" y="222" width="310" height="1" fill="#D4AF37" opacity="0.8"/>
+  </g>
+
+  <g class="appear a3">
+    <text x="80" y="248"
+      font-family="'Helvetica Neue', Arial, sans-serif"
+      font-size="11" font-weight="300" letter-spacing="4"
+      fill="#D4AF37">LUXURY PERFUME · DIGITAL COMMERCE</text>
+  </g>
+
+  <g class="appear a3">
+    <text x="80" y="286"
+      font-family="'Helvetica Neue', Arial, sans-serif"
+      font-size="12" font-weight="300" fill="#888888">Premium fragrance house built on Next.js</text>
+    <text x="80" y="306"
+      font-family="'Helvetica Neue', Arial, sans-serif"
+      font-size="12" font-weight="300" fill="#888888">with Supabase, delivering sovereign luxury.</text>
+  </g>
+
+  <g class="appear a4">
+    <rect x="80" y="338" width="80" height="22" rx="2" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+    <text x="120" y="353" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" letter-spacing="1.5" fill="#D4AF37">NEXT.JS</text>
+
+    <rect x="172" y="338" width="90" height="22" rx="2" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+    <text x="217" y="353" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" letter-spacing="1.5" fill="#D4AF37">SUPABASE</text>
+
+    <rect x="274" y="338" width="80" height="22" rx="2" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+    <text x="314" y="353" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" letter-spacing="1.5" fill="#D4AF37">LUXURY</text>
+  </g>
+
+  <!-- Ticker -->
+  <rect x="0" y="398" width="860" height="26" fill="#0A0A0A"/>
+  <line x1="0" y1="398" x2="860" y2="398" stroke="#D4AF37" stroke-width="0.5" opacity="0.4"/>
+  <g class="ticker">
+    <text y="415" font-family="'Courier New', monospace" font-size="9" letter-spacing="2" fill="#D4AF37" opacity="0.6">
+      <tspan x="20">SHAMIM FOREVER · LUXURY PERFUME HOUSE · DIGITAL COMMERCE · NEXT.JS · SUPABASE · PREMIUM FRAGRANCE · </tspan>
+      <tspan>SHAMIM FOREVER · LUXURY PERFUME HOUSE · DIGITAL COMMERCE · NEXT.JS · SUPABASE · PREMIUM FRAGRANCE · </tspan>
+    </text>
+  </g>
+</svg>
