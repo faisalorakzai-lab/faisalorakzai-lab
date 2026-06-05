@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .orbit-a { animation: spinA 18s linear infinite; transform-origin: 450px 210px; }
+      .orbit-b { animation: spinB 24s linear infinite; transform-origin: 450px 210px; }
+      .orbit-c { animation: spinA 30s linear infinite; transform-origin: 450px 210px; }
+      .orbit-d { animation: spinB 22s linear infinite; transform-origin: 450px 210px; }
+      @keyframes spinA { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+      @keyframes spinB { from { transform: rotate(360deg); } to { transform: rotate(0deg); } }
+      .pulse-center { animation: pulseCenter 3s ease-in-out infinite; }
+      @keyframes pulseCenter {
+        0%, 100% { r: 55; opacity: 0.08; }
+        50%       { r: 62; opacity: 0.15; }
+      }
+      .line-pulse { animation: linePulse 3s ease-in-out infinite; }
+      @keyframes linePulse {
+        0%, 100% { opacity: 0.15; }
+        50%       { opacity: 0.4; }
+      }
+      .node-glow { animation: nodeGlow 3s ease-in-out infinite; }
+      @keyframes nodeGlow {
+        0%, 100% { opacity: 0.5; }
+        50%       { opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="420" fill="#000000"/>
+
+  <!-- Header -->
+  <text x="450" y="36" text-anchor="middle"
+    font-family="'Helvetica Neue', Arial, sans-serif"
+    font-size="9" font-weight="400" letter-spacing="5"
+    fill="#D4AF37" opacity="0.6">ECOSYSTEM NETWORK</text>
+  <line x1="340" y1="46" x2="560" y2="46" stroke="#D4AF37" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Outer orbit ring 1 -->
+  <ellipse cx="450" cy="210" rx="165" ry="130"
+    fill="none" stroke="#D4AF37" stroke-width="0.4" opacity="0.2" stroke-dasharray="4 8"/>
+
+  <!-- Outer orbit ring 2 -->
+  <ellipse cx="450" cy="210" rx="220" ry="175"
+    fill="none" stroke="#D4AF37" stroke-width="0.3" opacity="0.1" stroke-dasharray="2 12"/>
+
+  <!-- Inner orbit ring -->
+  <ellipse cx="450" cy="210" rx="110" ry="85"
+    fill="none" stroke="#D4AF37" stroke-width="0.4" opacity="0.15" stroke-dasharray="3 6"/>
+
+  <!-- Center pulse -->
+  <circle class="pulse-center" cx="450" cy="210" r="55" fill="#D4AF37"/>
+
+  <!-- Center node -->
+  <circle cx="450" cy="210" r="52" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.8" opacity="0.9"/>
+  <circle cx="450" cy="210" r="45" fill="none" stroke="#D4AF37" stroke-width="0.3" opacity="0.4"/>
+  <text x="450" y="204" text-anchor="middle"
+    font-family="'Helvetica Neue', Arial, sans-serif"
+    font-size="9" font-weight="700" letter-spacing="2"
+    fill="#D4AF37">ORAKZAI</text>
+  <text x="450" y="220" text-anchor="middle"
+    font-family="'Helvetica Neue', Arial, sans-serif"
+    font-size="9" font-weight="700" letter-spacing="2"
+    fill="#D4AF37">GROUP</text>
+  <line x1="410" y1="226" x2="490" y2="226" stroke="#D4AF37" stroke-width="0.4" opacity="0.5"/>
+
+  <!-- Connection lines (static) -->
+  <g class="line-pulse">
+    <line x1="450" y1="210" x2="285" y2="130" stroke="#D4AF37" stroke-width="0.4"/>
+    <line x1="450" y1="210" x2="615" y2="130" stroke="#D4AF37" stroke-width="0.4"/>
+    <line x1="450" y1="210" x2="250" y2="280" stroke="#D4AF37" stroke-width="0.4"/>
+    <line x1="450" y1="210" x2="650" y2="280" stroke="#D4AF37" stroke-width="0.4"/>
+  </g>
+
+  <!-- Node: OKBOND (top-left orbit) -->
+  <g class="orbit-a">
+    <g transform="translate(285, 130)">
+      <circle r="40" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.7" opacity="0.9"/>
+      <circle r="34" fill="none" stroke="#D4AF37" stroke-width="0.3" opacity="0.3"/>
+      <text text-anchor="middle" y="-4"
+        font-family="'Helvetica Neue', Arial, sans-serif"
+        font-size="9" font-weight="700" letter-spacing="1"
+        fill="#F5F5F5">OK</text>
+      <text text-anchor="middle" y="10"
+        font-family="'Helvetica Neue', Arial, sans-serif"
+        font-size="9" font-weight="700" letter-spacing="1"
+        fill="#D4AF37">BOND</text>
+    </g>
+  </g>
+
+  <!-- Node: ORAKZAIX (top-right orbit) -->
+  <g class="orbit-b">
+    <g transform="translate(615, 130)">
+      <circle r="40" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.7" opacity="0.9"/>
+      <circle r="34" fill="none" stroke="#D4AF37" stroke-width="0.3" opacity="0.3"/>
+      <text text-anchor="middle" y="-4"
+        font-family="'Helvetica Neue', Arial, sans-serif"
+        font-size="9" font-weight="700" letter-spacing="1"
+        fill="#F5F5F5">ORAKZAI</text>
+      <text text-anchor="middle" y="10"
+        font-family="'Helvetica Neue', Arial, sans-serif"
+        font-size="8" font-weight="400" letter-spacing="1"
+        fill="#D4AF37">AI+AUTO</text>
+    </g>
+  </g>
+
+  <!-- Node: ORAKZAI PROPERTIES (bottom-left orbit) -->
+  <g class="orbit-c">
+    <g transform="translate(250, 290)">
+      <circle r="40" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.7" opacity="0.9"/>
+      <circle r="34" fill="none" stroke="#D4AF37" stroke-width="0.3" opacity="0.3"/>
+      <text text-anchor="middle" y="-4"
+        font-family="'Helvetica Neue', Arial, sans-serif"
+        font-size="8" font-weight="700" letter-spacing="0.5"
+        fill="#F5F5F5">ORAKZAI</text>
+      <text text-anchor="middle" y="10"
+        font-family="'Helvetica Neue', Arial, sans-serif"
+        font-size="7" font-weight="400" letter-spacing="0.5"
+        fill="#D4AF37">PROPERTIES</text>
+    </g>
+  </g>
+
+  <!-- Node: ORAKZAI VENTURES (bottom-right orbit) -->
+  <g class="orbit-d">
+    <g transform="translate(650, 290)">
+      <circle r="40" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.7" opacity="0.9"/>
+      <circle r="34" fill="none" stroke="#D4AF37" stroke-width="0.3" opacity="0.3"/>
+      <text text-anchor="middle" y="-4"
+        font-family="'Helvetica Neue', Arial, sans-serif"
+        font-size="8" font-weight="700" letter-spacing="0.5"
+        fill="#F5F5F5">ORAKZAI</text>
+      <text text-anchor="middle" y="10"
+        font-family="'Helvetica Neue', Arial, sans-serif"
+        font-size="7" font-weight="400" letter-spacing="0.5"
+        fill="#D4AF37">VENTURES</text>
+    </g>
+  </g>
+
+  <!-- Footer -->
+  <line x1="340" y1="385" x2="560" y2="385" stroke="#D4AF37" stroke-width="0.5" opacity="0.3"/>
+  <text x="450" y="400" text-anchor="middle"
+    font-family="'Helvetica Neue', Arial, sans-serif"
+    font-size="8" letter-spacing="3"
+    fill="#555555">MULTI-SECTOR VENTURE INFRASTRUCTURE</text>
+</svg>
