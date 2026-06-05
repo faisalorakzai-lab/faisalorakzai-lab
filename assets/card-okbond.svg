@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 440" width="860" height="440">
+  <defs>
+    <pattern id="hexGrid" width="50" height="58" patternUnits="userSpaceOnUse">
+      <polygon points="25,0 50,14.4 50,43.3 25,57.7 0,43.3 0,14.4" fill="none" stroke="#D4AF37" stroke-width="0.15" opacity="0.2"/>
+    </pattern>
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="strongGlow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#D4AF37" stop-opacity="0.5"/>
+      <stop offset="60%" stop-color="#D4AF37" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .scan-v { animation: scanV 4s linear infinite; }
+      @keyframes scanV {
+        0%   { transform: translateY(-440px); }
+        100% { transform: translateY(440px); }
+      }
+      .hex-pulse { animation: hexPulse 6s ease-in-out infinite; }
+      @keyframes hexPulse { 0%,100%{opacity:0.15} 50%{opacity:0.35} }
+      .ring-spin { animation: ringS 12s linear infinite; transform-origin: 430px 200px; }
+      @keyframes ringS { from{transform:rotate(0deg)} to{transform:rotate(360deg)} }
+      .ring-counter { animation: ringC 18s linear infinite; transform-origin: 430px 200px; }
+      @keyframes ringC { from{transform:rotate(360deg)} to{transform:rotate(0deg)} }
+      .node-blink { animation: nBlink 2.5s ease-in-out infinite; }
+      .node-blink-2 { animation: nBlink 2.5s ease-in-out infinite; animation-delay:-0.8s }
+      .node-blink-3 { animation: nBlink 2.5s ease-in-out infinite; animation-delay:-1.6s }
+      @keyframes nBlink { 0%,100%{opacity:0.3;r:3} 50%{opacity:1;r:6} }
+      .appear { animation: appear 1s ease-out forwards; opacity:0; }
+      .a1{animation-delay:0.2s}.a2{animation-delay:0.6s}.a3{animation-delay:1.0s}.a4{animation-delay:1.4s}
+      @keyframes appear { from{opacity:0} to{opacity:1} }
+      .data-flow { animation: dFlow 8s linear infinite; }
+      .data-flow-2 { animation: dFlow 11s linear infinite; animation-delay:-4s; }
+      @keyframes dFlow { 0%{transform:translateX(-200px);opacity:0} 8%{opacity:0.4} 92%{opacity:0.4} 100%{transform:translateX(1060px);opacity:0} }
+      .corner-pulse { animation: cPulse 3s ease-in-out infinite; }
+      @keyframes cPulse { 0%,100%{opacity:0.5} 50%{opacity:1} }
+      .price-ticker { animation: tickerScroll 15s linear infinite; }
+      @keyframes tickerScroll { 0%{transform:translateX(0)} 100%{transform:translateX(-50%)} }
+    </style>
+  </defs>
+
+  <!-- BG -->
+  <rect width="860" height="440" fill="#000000"/>
+  <!-- Hex grid -->
+  <rect width="860" height="440" fill="url(#hexGrid)" class="hex-pulse"/>
+  <!-- Center radial glow -->
+  <rect width="860" height="440" fill="url(#centerGlow)"/>
+
+  <!-- Scan line -->
+  <g class="scan-v">
+    <rect x="0" y="0" width="860" height="1.5" fill="url(#scanGrad)" opacity="0.6"/>
+  </g>
+
+  <!-- Data flows -->
+  <g class="data-flow"><rect x="0" y="110" width="160" height="0.6" fill="#D4AF37" opacity="0.3"/></g>
+  <g class="data-flow-2"><rect x="0" y="320" width="100" height="0.6" fill="#D4AF37" opacity="0.2"/></g>
+
+  <!-- Spinning rings on right side (decorative) -->
+  <g class="ring-spin">
+    <ellipse cx="700" cy="200" rx="90" ry="90" fill="none" stroke="#D4AF37" stroke-width="0.5" opacity="0.2" stroke-dasharray="6 14"/>
+  </g>
+  <g class="ring-counter">
+    <ellipse cx="700" cy="200" rx="65" ry="65" fill="none" stroke="#D4AF37" stroke-width="0.4" opacity="0.15" stroke-dasharray="3 10"/>
+  </g>
+
+  <!-- Corner brackets -->
+  <g class="corner-pulse">
+    <line x1="24" y1="24" x2="70" y2="24" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="24" y1="24" x2="24" y2="70" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="836" y1="24" x2="790" y2="24" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="836" y1="24" x2="836" y2="70" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="24" y1="416" x2="70" y2="416" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="24" y1="416" x2="24" y2="370" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="836" y1="416" x2="790" y2="416" stroke="#D4AF37" stroke-width="1.5"/>
+    <line x1="836" y1="416" x2="836" y2="370" stroke="#D4AF37" stroke-width="1.5"/>
+  </g>
+
+  <!-- Pulse nodes on right orb -->
+  <circle class="node-blink" cx="700" cy="110" r="3" fill="#D4AF37"/>
+  <circle class="node-blink-2" cx="790" cy="200" r="3" fill="#D4AF37"/>
+  <circle class="node-blink-3" cx="700" cy="290" r="3" fill="#D4AF37"/>
+
+  <!-- Top label -->
+  <g class="appear a1">
+    <text x="80" y="72"
+      font-family="'Courier New', Courier, monospace"
+      font-size="9" letter-spacing="4" fill="#D4AF37" opacity="0.6">ORAKZAI ECOSYSTEM · DIGITAL ASSET DIVISION</text>
+  </g>
+  <line x1="60" y1="82" x2="500" y2="82" stroke="#D4AF37" stroke-width="0.4" opacity="0.3"/>
+
+  <!-- Main name -->
+  <g class="appear a2" filter="url(#strongGlow)">
+    <text x="80" y="170"
+      font-family="'Helvetica Neue', Arial, sans-serif"
+      font-size="72" font-weight="700" letter-spacing="6"
+      fill="#D4AF37">OK</text>
+    <text x="220" y="170"
+      font-family="'Helvetica Neue', Arial, sans-serif"
+      font-size="72" font-weight="300" letter-spacing="6"
+      fill="#F5F5F5">BOND</text>
+  </g>
+
+  <!-- Gold divider -->
+  <g class="appear a2">
+    <rect x="80" y="184" width="360" height="1" fill="#D4AF37" opacity="0.8"/>
+  </g>
+
+  <!-- Tagline -->
+  <g class="appear a3">
+    <text x="80" y="214"
+      font-family="'Helvetica Neue', Arial, sans-serif"
+      font-size="11" font-weight="300" letter-spacing="4"
+      fill="#D4AF37">POLYGON-BASED DIGITAL ASSET ECOSYSTEM</text>
+  </g>
+
+  <!-- Description -->
+  <g class="appear a3">
+    <text x="80" y="254"
+      font-family="'Helvetica Neue', Arial, sans-serif"
+      font-size="12" font-weight="300" letter-spacing="1"
+      fill="#888888">Tokenized bonds and structured financial</text>
+    <text x="80" y="274"
+      font-family="'Helvetica Neue', Arial, sans-serif"
+      font-size="12" font-weight="300" letter-spacing="1"
+      fill="#888888">products deployed on-chain.</text>
+  </g>
+
+  <!-- Tag chips -->
+  <g class="appear a4">
+    <rect x="80" y="308" width="80" height="22" rx="2" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+    <text x="120" y="323" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif"
+      font-size="8" letter-spacing="2" fill="#D4AF37">POLYGON</text>
+
+    <rect x="172" y="308" width="80" height="22" rx="2" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+    <text x="212" y="323" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif"
+      font-size="8" letter-spacing="2" fill="#D4AF37">WEB3</text>
+
+    <rect x="264" y="308" width="100" height="22" rx="2" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+    <text x="314" y="323" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif"
+      font-size="8" letter-spacing="2" fill="#D4AF37">DEFI</text>
+  </g>
+
+  <!-- Bottom ticker strip -->
+  <rect x="0" y="398" width="860" height="26" fill="#0A0A0A"/>
+  <line x1="0" y1="398" x2="860" y2="398" stroke="#D4AF37" stroke-width="0.5" opacity="0.4"/>
+  <g style="clip-path:rect(0 860 26 0)">
+    <g class="price-ticker">
+      <text y="415" font-family="'Courier New', monospace" font-size="9" letter-spacing="2" fill="#D4AF37" opacity="0.6">
+        <tspan x="20">OKBOND · POLYGON NETWORK · DIGITAL BONDS · ON-CHAIN ASSETS · STRUCTURED FINANCE · TOKENIZED SECURITIES · </tspan>
+        <tspan>OKBOND · POLYGON NETWORK · DIGITAL BONDS · ON-CHAIN ASSETS · STRUCTURED FINANCE · TOKENIZED SECURITIES · </tspan>
+      </text>
+    </g>
+  </g>
+</svg>
