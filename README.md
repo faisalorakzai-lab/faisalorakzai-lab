@@ -148,6 +148,38 @@ designed for the next generation of global markets.
 
 <div align="center">
 
+<sub>◈ &nbsp;&nbsp; C O N T R I B U T I O N &nbsp; S N A K E &nbsp;&nbsp; ◈</sub>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/snake.svg" width="100%" alt="Contribution Snake"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<sub>◈ &nbsp;&nbsp; F O U N D E R &nbsp; T R O P H I E S &nbsp;&nbsp; ◈</sub>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=faisalorakzai-lab&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" width="100%"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
 <sub>◈ &nbsp;&nbsp; F O C U S &nbsp; A R E A S &nbsp;&nbsp; ◈</sub>
 
 <br/><br/>
