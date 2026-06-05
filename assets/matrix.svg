@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240">
+  <defs>
+    <filter id="goldGlow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .cell { animation: cellPulse 4s ease-in-out infinite; }
+      .cell:nth-child(1)  { animation-delay: 0.0s; }
+      .cell:nth-child(2)  { animation-delay: 0.3s; }
+      .cell:nth-child(3)  { animation-delay: 0.6s; }
+      .cell:nth-child(4)  { animation-delay: 0.9s; }
+      .cell:nth-child(5)  { animation-delay: 1.2s; }
+      .cell:nth-child(6)  { animation-delay: 1.5s; }
+      .cell:nth-child(7)  { animation-delay: 1.8s; }
+      .cell:nth-child(8)  { animation-delay: 2.1s; }
+      .cell:nth-child(9)  { animation-delay: 2.4s; }
+      .cell:nth-child(10) { animation-delay: 2.7s; }
+      .cell:nth-child(11) { animation-delay: 3.0s; }
+      .cell:nth-child(12) { animation-delay: 3.3s; }
+      @keyframes cellPulse {
+        0%, 100% { opacity: 0.55; }
+        50%       { opacity: 1.0; }
+      }
+    </style>
+  </defs>
+
+  <rect width="900" height="240" fill="#000000"/>
+  <rect width="900" height="240" fill="none" stroke="#D4AF37" stroke-width="0.4" opacity="0.2"/>
+
+  <!-- Header -->
+  <text x="450" y="28" text-anchor="middle"
+    font-family="'Helvetica Neue', Arial, sans-serif"
+    font-size="9" font-weight="400" letter-spacing="5"
+    fill="#D4AF37" opacity="0.6">TECHNOLOGY MATRIX</text>
+  <line x1="330" y1="38" x2="570" y2="38" stroke="#D4AF37" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Row 1 -->
+  <!-- Cell 1: AI -->
+  <g class="cell">
+    <rect x="40" y="58" width="120" height="50" rx="2" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+    <text x="100" y="80" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2"
+      fill="#D4AF37" filter="url(#goldGlow)">AI</text>
+    <text x="100" y="97" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="7" letter-spacing="1.5"
+      fill="#555555">ARTIFICIAL INTEL</text>
+  </g>
+
+  <!-- Cell 2: BLOCKCHAIN -->
+  <g class="cell">
+    <rect x="175" y="58" width="120" height="50" rx="2" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+    <text x="235" y="80" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1"
+      fill="#D4AF37" filter="url(#goldGlow)">BLOCKCHAIN</text>
+    <text x="235" y="97" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="7" letter-spacing="1.5"
+      fill="#555555">INFRASTRUCTURE</text>
+  </g>
+
+  <!-- Cell 3: POLYGON -->
+  <g class="cell">
+    <rect x="310" y="58" width="120" height="50" rx="2" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+    <text x="370" y="80" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2"
+      fill="#D4AF37" filter="url(#goldGlow)">POLYGON</text>
+    <text x="370" y="97" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="7" letter-spacing="1.5"
+      fill="#555555">LAYER 2 · MATIC</text>
+  </g>
+
+  <!-- Cell 4: ETHEREUM -->
+  <g class="cell">
+    <rect x="445" y="58" width="120" height="50" rx="2" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+    <text x="505" y="80" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2"
+      fill="#D4AF37" filter="url(#goldGlow)">ETHEREUM</text>
+    <text x="505" y="97" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="7" letter-spacing="1.5"
+      fill="#555555">WEB3 · SOLIDITY</text>
+  </g>
+
+  <!-- Cell 5: TYPESCRIPT -->
+  <g class="cell">
+    <rect x="580" y="58" width="120" height="50" rx="2" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+    <text x="640" y="80" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1"
+      fill="#D4AF37" filter="url(#goldGlow)">TYPESCRIPT</text>
+    <text x="640" y="97" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="7" letter-spacing="1.5"
+      fill="#555555">NODE · BACKEND</text>
+  </g>
+
+  <!-- Cell 6: GO -->
+  <g class="cell">
+    <rect x="715" y="58" width="145" height="50" rx="2" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+    <text x="787" y="80" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3"
+      fill="#D4AF37" filter="url(#goldGlow)">GO</text>
+    <text x="787" y="97" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="7" letter-spacing="1.5"
+      fill="#555555">SYSTEMS · PERF</text>
+  </g>
+
+  <!-- Row 2 -->
+  <!-- Cell 7: NODE.JS -->
+  <g class="cell">
+    <rect x="40" y="126" width="120" height="50" rx="2" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+    <text x="100" y="149" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2"
+      fill="#D4AF37" filter="url(#goldGlow)">NODE.JS</text>
+    <text x="100" y="165" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="7" letter-spacing="1.5"
+      fill="#555555">RUNTIME · API</text>
+  </g>
+
+  <!-- Cell 8: FINTECH -->
+  <g class="cell">
+    <rect x="175" y="126" width="120" height="50" rx="2" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+    <text x="235" y="149" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2"
+      fill="#D4AF37" filter="url(#goldGlow)">FINTECH</text>
+    <text x="235" y="165" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="7" letter-spacing="1.5"
+      fill="#555555">FINANCIAL SYS</text>
+  </g>
+
+  <!-- Cell 9: DOCKER -->
+  <g class="cell">
+    <rect x="310" y="126" width="120" height="50" rx="2" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+    <text x="370" y="149" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2"
+      fill="#D4AF37" filter="url(#goldGlow)">DOCKER</text>
+    <text x="370" y="165" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="7" letter-spacing="1.5"
+      fill="#555555">CONTAINERS · OPS</text>
+  </g>
+
+  <!-- Cell 10: POSTGRESQL -->
+  <g class="cell">
+    <rect x="445" y="126" width="120" height="50" rx="2" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+    <text x="505" y="149" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1"
+      fill="#D4AF37" filter="url(#goldGlow)">POSTGRESQL</text>
+    <text x="505" y="165" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="7" letter-spacing="1.5"
+      fill="#555555">DATA · STORAGE</text>
+  </g>
+
+  <!-- Cell 11: WEB3 -->
+  <g class="cell">
+    <rect x="580" y="126" width="120" height="50" rx="2" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+    <text x="640" y="149" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2"
+      fill="#D4AF37" filter="url(#goldGlow)">WEB3</text>
+    <text x="640" y="165" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="7" letter-spacing="1.5"
+      fill="#555555">DECENTRALIZED</text>
+  </g>
+
+  <!-- Cell 12: AUTOMATION -->
+  <g class="cell">
+    <rect x="715" y="126" width="145" height="50" rx="2" fill="#0A0A0A" stroke="#D4AF37" stroke-width="0.5" opacity="0.7"/>
+    <text x="787" y="149" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1"
+      fill="#D4AF37" filter="url(#goldGlow)">AUTOMATION</text>
+    <text x="787" y="165" text-anchor="middle"
+      font-family="'Helvetica Neue', Arial, sans-serif" font-size="7" letter-spacing="1.5"
+      fill="#555555">AI-DRIVEN OPS</text>
+  </g>
+</svg>
