@@ -1,0 +1,26 @@
+name: Daily Heartbeat
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch: 
+
+permissions:
+  contents: write
+
+jobs:
+  heartbeat:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Log
+        run: |
+          mkdir -p .system
+          echo "ORAKZAI NETWORK - System Heartbeat - $(date -u +'%Y-%m-%d')" > .system/heartbeat.txt
+
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(heartbeat): system status update"
+          file_pattern: ".system/*"
