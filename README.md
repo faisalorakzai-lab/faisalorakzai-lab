@@ -23,14 +23,14 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║    "I build systems that compound. Infrastructure that lasts.    ║
-║     Capital that works. Intelligence that scales."               ║
-║                                                                  ║
-║                        — MUHAMMAD FAISAL ORAKZAI                 ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                          ║
+║    "We are not just building code; we are architecting the future of sovereign wealth.   ║
+║     Systems that compound. Infrastructure that lasts. Capital that works."               ║
+║                                                                                          ║
+║                                — CHAIRMAN FAISAL ORAKZAI                                 ║
+║                                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -43,33 +43,31 @@
 
 <div align="center">
 
-### ◈ THE ORAKZAI ECOSYSTEM
+### ◈ GLOBAL ECOSYSTEM ARCHITECTURE
 
-<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/orbital.svg" width="700" alt="ORBITAL ECOSYSTEM MAP"/>
+<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/orbital.svg" width="800" alt="ORBITAL ECOSYSTEM MAP"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- PROJECT CARDS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-### ◈ LIVE VENTURES
+### ◈ STRATEGIC VERTICALS
 
 <table>
 <tr>
 <td width="50%">
-<a href="https://github.com/faisalorakzai-lab/orakzaibondwebsiten">
+<a href="https://orakzaibond.com">
 <img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-okbond.svg" width="100%" alt="OKBOND"/>
 </a>
+<br/><b>OKBOND</b>: Capital-protected decentralized bond marketplace.
 </td>
 <td width="50%">
-<a href="https://github.com/faisalorakzai-lab/Adamorakzaix">
-<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-orakzaix.svg" width="100%" alt="ORAKZAIX"/>
+<a href="https://www.shamimforever.com">
+<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-shamimforever.svg" width="100%" alt="SHAMIM FOREVER"/>
 </a>
+<br/><b>SHAMIM FOREVER</b>: Premier global luxury fragrance brand.
 </td>
 </tr>
 <tr>
@@ -77,11 +75,13 @@
 <a href="https://github.com/faisalorakzai-lab/Orakzai-Properties">
 <img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-properties.svg" width="100%" alt="PROPERTIES"/>
 </a>
+<br/><b>ORAKZAI PROPERTIES</b>: Real estate tokenization and exchange.
 </td>
 <td width="50%">
-<a href="https://github.com/faisalorakzai-lab/shamimforever">
-<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-shamimforever.svg" width="100%" alt="SHAMIM FOREVER"/>
+<a href="https://github.com/faisalorakzai-lab/Adamorakzaix">
+<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-orakzaix.svg" width="100%" alt="ORAKZAIX"/>
 </a>
+<br/><b>ORAKZAIX</b>: Multi-agent AI infrastructure for finance.
 </td>
 </tr>
 </table>
