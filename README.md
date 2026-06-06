@@ -1,307 +1,291 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/banner.svg" width="100%" alt="Muhammad Faisal Orakzai"/>
+<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/banner.svg" width="100%" alt="ORAKZAI COMMAND CENTER"/>
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- BOOT SEQUENCE -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/boot.svg" width="680" alt="SYSTEM BOOT"/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- MISSION STATEMENT -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <br/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/boot.svg" width="100%" alt="System Boot"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<br/>
-
-<sub>◈ &nbsp;&nbsp; M I S S I O N &nbsp;&nbsp; ◈</sub>
-
-<br/><br/>
-
-<h1>BUILD SYSTEMS</h1>
-
-<h1>CREATE LEVERAGE</h1>
-
-<h1>SCALE IMPACT</h1>
-
-<br/>
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
-<sub>◈ &nbsp;&nbsp; F O U N D E R &nbsp; S T A T E M E N T &nbsp;&nbsp; ◈</sub>
-
-<br/><br/>
-
-I focus on building infrastructure rather than trends.
-
-My work spans blockchain systems, digital assets,<br/>
-AI-driven automation, and scalable financial architectures<br/>
-designed for the next generation of global markets.
-
-<br/>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║    "I build systems that compound. Infrastructure that lasts.    ║
+║     Capital that works. Intelligence that scales."               ║
+║                                                                  ║
+║                        — MUHAMMAD FAISAL ORAKZAI                 ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ORBITAL ECOSYSTEM -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<sub>◈ &nbsp;&nbsp; E C O S Y S T E M &nbsp; N E T W O R K &nbsp;&nbsp; ◈</sub>
+### ◈ THE ORAKZAI ECOSYSTEM
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/orbital.svg" width="100%" alt="Ecosystem Network"/>
+<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/orbital.svg" width="700" alt="ORBITAL ECOSYSTEM MAP"/>
 
 </div>
-
-<br/>
 
 ---
 
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- PROJECT CARDS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<sub>◈ &nbsp;&nbsp; P R O J E C T &nbsp; C O M M A N D &nbsp; C E N T E R &nbsp;&nbsp; ◈</sub>
+### ◈ LIVE VENTURES
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-okbond.svg" width="49%" alt="OKBOND"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-orakzaix.svg" width="49%" alt="ORAKZAIX"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-properties.svg" width="49%" alt="ORAKZAI PROPERTIES"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-shamimforever.svg" width="49%" alt="SHAMIM FOREVER"/>
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<sub>◈ &nbsp;&nbsp; T E C H N O L O G Y &nbsp; M A T R I X &nbsp;&nbsp; ◈</sub>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/matrix.svg" width="100%" alt="Technology Matrix"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<sub>◈ &nbsp;&nbsp; A C T I V I T Y &nbsp; C O M M A N D &nbsp; C E N T E R &nbsp;&nbsp; ◈</sub>
-
-<br/><br/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=faisalorakzai-lab&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=D4AF37&icon_color=D4AF37&text_color=888888&ring_color=D4AF37&count_private=true&card_width=400" />
-&nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalorakzai-lab&theme=github_dark&hide_border=true&bg_color=000000&title_color=D4AF37&text_color=888888&layout=compact&langs_count=6&card_width=300" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=faisalorakzai-lab&theme=github-dark-blue&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=888888&dates=555555&stroke=D4AF37" height="155"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faisalorakzai-lab&theme=github-compact&bg_color=000000&color=D4AF37&line=D4AF37&point=F5F5F5&area=true&hide_border=true&area_color=D4AF37" width="95%"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<sub>◈ &nbsp;&nbsp; C O N T R I B U T I O N &nbsp; S N A K E &nbsp;&nbsp; ◈</sub>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/snake.svg" width="100%" alt="Contribution Snake"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<sub>◈ &nbsp;&nbsp; F O U N D E R &nbsp; T R O P H I E S &nbsp;&nbsp; ◈</sub>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=faisalorakzai-lab&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<sub>◈ &nbsp;&nbsp; F O C U S &nbsp; A R E A S &nbsp;&nbsp; ◈</sub>
-
-<br/><br/>
-
-<table border="0">
+<table>
 <tr>
-<td align="center" width="150">
-<br/>
-<code>BLOCKCHAIN</code><br/><code>INFRASTRUCTURE</code>
-<br/><br/>
+<td width="50%">
+<a href="https://github.com/faisalorakzai-lab/orakzaibondwebsiten">
+<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-okbond.svg" width="100%" alt="OKBOND"/>
+</a>
 </td>
-<td align="center" width="150">
-<br/>
-<code>DIGITAL</code><br/><code>ASSETS</code>
-<br/><br/>
-</td>
-<td align="center" width="150">
-<br/>
-<code>FINTECH</code><br/><code>SYSTEMS</code>
-<br/><br/>
+<td width="50%">
+<a href="https://github.com/faisalorakzai-lab/Adamorakzaix">
+<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-orakzaix.svg" width="100%" alt="ORAKZAIX"/>
+</a>
 </td>
 </tr>
 <tr>
-<td align="center" width="150">
-<br/>
-<code>AI</code><br/><code>AUTOMATION</code>
-<br/><br/>
+<td width="50%">
+<a href="https://github.com/faisalorakzai-lab/Orakzai-Properties">
+<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-properties.svg" width="100%" alt="PROPERTIES"/>
+</a>
 </td>
-<td align="center" width="150">
-<br/>
-<code>REAL-WORLD</code><br/><code>ASSETS</code>
-<br/><br/>
-</td>
-<td align="center" width="150">
-<br/>
-<code>EMERGING</code><br/><code>TECHNOLOGIES</code>
-<br/><br/>
+<td width="50%">
+<a href="https://github.com/faisalorakzai-lab/shamimforever">
+<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-shamimforever.svg" width="100%" alt="SHAMIM FOREVER"/>
+</a>
 </td>
 </tr>
 </table>
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TECH MATRIX -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<sub>◈ &nbsp;&nbsp; F O U N D E R &nbsp; J O U R N E Y &nbsp;&nbsp; ◈</sub>
+### ◈ TECHNOLOGY MATRIX
+
+<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/matrix.svg" width="700" alt="TECH MATRIX"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ◈ SYSTEM METRICS
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=faisalorakzai-lab&show_icons=true&theme=dark&bg_color=000000&border_color=D4AF37&title_color=D4AF37&icon_color=D4AF37&text_color=F5F5F5&ring_color=D4AF37&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalorakzai-lab&layout=compact&theme=dark&bg_color=000000&border_color=D4AF37&title_color=D4AF37&text_color=F5F5F5&hide_border=false" alt="Top Languages"/>
 
 <br/><br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=faisalorakzai-lab&theme=dark&background=000000&border=D4AF37&stroke=D4AF37&ring=D4AF37&fire=FFD700&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=666666" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CONTRIBUTION SNAKE -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ◈ CONTRIBUTION GRID
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/output/github-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/output/github-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ACTIVITY GRAPH -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faisalorakzai-lab&bg_color=000000&color=D4AF37&line=D4AF37&point=F5F5F5&area_color=D4AF37&area=true&hide_border=false&border_color=D4AF37&custom_title=ORAKZAI%20NETWORK%20ACTIVITY" width="100%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TROPHIES -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ◈ ACHIEVEMENTS
+
+<img src="https://github-profile-trophy.vercel.app/?username=faisalorakzai-lab&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&column=7&title=MultiLanguage,Commits,Stars,Followers,Repositories,Issues,PullRequest" alt="Trophies" width="100%"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FOCUS AREAS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ◈ CURRENT FOCUS
+
 ```
-  REAL ESTATE  ──▶  TRADING  ──▶  DIGITAL ASSETS  ──▶  BLOCKCHAIN INFRASTRUCTURE
-                                                                     │
-                                                                     ▼
-                                            FUTURE ECOSYSTEMS  ◀── AI SYSTEMS
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   🔴  OKBOND         →  On-chain bond marketplace (testnet)     │
+│   🟡  ORAKZAIX       →  Multi-agent AI platform (building)      │
+│   🟢  PROPERTIES     →  Real estate tokenization (live)         │
+│   🔵  SHAMIM FOREVER →  Luxury fragrance e-commerce (live)      │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- BUILDER STACK -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<sub>◈ &nbsp;&nbsp; G L O B A L &nbsp; N E T W O R K &nbsp;&nbsp; ◈</sub>
+### ◈ BUILDER STACK
 
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=000000)](https://linkedin.com/in/faisalorakzai)
-&nbsp;
-[![Crunchbase](https://img.shields.io/badge/CRUNCHBASE-000000?style=for-the-badge&logo=crunchbase&logoColor=D4AF37&labelColor=000000)](https://www.crunchbase.com/person/faisal-orakzai)
-&nbsp;
-[![F6S](https://img.shields.io/badge/F6S-000000?style=for-the-badge&logo=f6s&logoColor=D4AF37&labelColor=000000)](https://www.f6s.com/faisalorakzai)
-
-<br/>
-
-[![ORCID](https://img.shields.io/badge/ORCID-000000?style=for-the-badge&logo=orcid&logoColor=D4AF37&labelColor=000000)](https://orcid.org/0009-0007-5574-2845)
-&nbsp;
-[![Wikidata](https://img.shields.io/badge/WIKIDATA%20Q140072893-000000?style=for-the-badge&logo=wikidata&logoColor=D4AF37&labelColor=000000)](https://www.wikidata.org/wiki/Q140072893)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000)](https://github.com/faisalorakzai-lab)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=D4AF37)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=D4AF37)
+![Solidity](https://img.shields.io/badge/Solidity-000?style=flat-square&logo=solidity&logoColor=D4AF37)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=D4AF37)
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=D4AF37)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=D4AF37)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=D4AF37)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=D4AF37)
+![Polygon](https://img.shields.io/badge/Polygon-000?style=flat-square&logo=polygon&logoColor=D4AF37)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=D4AF37)
+![OpenAI](https://img.shields.io/badge/OpenAI-000?style=flat-square&logo=openai&logoColor=D4AF37)
+![LangChain](https://img.shields.io/badge/LangChain-000?style=flat-square&logo=chainlink&logoColor=D4AF37)
 
 </div>
 
-<br/>
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- BUILDER'S JOURNEY -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ◈ THE JOURNEY
+
+```yaml
+2018:  First line of code written
+2020:  Web development — built first client projects
+2021:  Blockchain — Solidity, DeFi protocols, NFT systems
+2022:  AI/ML — LLMs, embeddings, autonomous agents
+2023:  Founded ORAKZAI GROUP — building at the intersection
+       of AI · Blockchain · Real Assets · Digital Commerce
+2024:  Launched shamimforever.com — first live product
+2025:  Scaling all 4 verticals simultaneously
+```
+
+</div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- GLOBAL NETWORK -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ◈ GLOBAL NETWORK
+
+![Profile Views](https://komarev.com/ghpvc/?username=faisalorakzai-lab&color=D4AF37&style=flat-square&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/faisalorakzai-lab?label=FOLLOWERS&style=flat-square&color=D4AF37&labelColor=000)](https://github.com/faisalorakzai-lab)
+&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/faisalorakzai-lab?label=STARS&style=flat-square&color=D4AF37&labelColor=000)](https://github.com/faisalorakzai-lab)
+
+<br/>
+
+```
+ ██████╗ ██████╗  █████╗ ██╗  ██╗███████╗ █████╗ ██╗
+██╔═══██╗██╔══██╗██╔══██╗██║ ██╔╝╚════██║██╔══██╗██║
+██║   ██║██████╔╝███████║█████╔╝     ██╔╝███████║██║
+██║   ██║██╔══██╗██╔══██║██╔═██╗    ██╔╝ ██╔══██║██║
+╚██████╔╝██║  ██║██║  ██║██║  ██╗   ██║  ██║  ██║███████╗
+ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝╚══════╝
+```
+
+*`[ BUILDING THE SOVEREIGN DIGITAL FUTURE · PAKISTAN → WORLD ]`*
+
+<br/>
+
+**Connect:** &nbsp;
+[LinkedIn](https://linkedin.com/in/faisalorakzai) &nbsp;·&nbsp;
+[Twitter/X](https://x.com/faisalorakzai) &nbsp;·&nbsp;
+[Telegram](https://t.me/faisalorakzai) &nbsp;·&nbsp;
+[Email](mailto:faisal@orakzai.com)
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <br/>
 
 <div align="center">
-
-<br/>
-
-<sub>◈</sub>
-
-<br/><br/>
-
-*The future belongs to those who design systems.*
-
-*Not those who follow them.*
-
-<br/><br/>
-
-<sub>◈</sub>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=faisalorakzai-lab&style=flat-square&color=D4AF37&label=PROFILE+VIEWS&labelColor=000000" />
-
-<br/><br/>
-
-<sub>MUHAMMAD FAISAL ORAKZAI &nbsp;·&nbsp; ORAKZAI GROUP &nbsp;·&nbsp; BLOCKCHAIN INFRASTRUCTURE &nbsp;·&nbsp; DIGITAL ASSETS</sub>
-
-<br/>
-
+<sub>
+⚡ Auto-updated via GitHub Actions · 
+Contribution snake regenerates nightly · 
+Metrics refresh every 24h
+</sub>
 </div>
