@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faisalorakzaii-0A0A0A?style=flat-square&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/faisalorakzaii)
 [![GitHub](https://img.shields.io/badge/GitHub-faisalorakzai--lab-0A0A0A?style=flat-square&logo=github&logoColor=D4AF37)](https://github.com/faisalorakzai-lab)
-[![Status](https://img.shields.io/badge/Status-Building%20Global%20Empire-0A0A0A?style=flat-square&logoColor=D4AF37&color=0A0A0A&labelColor=D4AF37)](https://github.com/faisalorakzai-lab)
+[![Status](https://img.shields.io/badge/Status-Building%20Global%20Empire-D4AF37?style=flat-square&labelColor=0A0A0A)](https://github.com/faisalorakzai-lab)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-0A0A0A?style=flat-square&logo=opensourceinitiative&logoColor=D4AF37)](https://github.com/faisalorakzai-lab)
 
 </div>
@@ -23,9 +23,7 @@
 <!--           WORLD #1 MISSION STATEMENT              -->
 <!-- ══════════════════════════════════════════════════ -->
 
-<table border="0" width="100%">
-<tr>
-<td align="center" style="padding: 24px;">
+<div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -43,9 +41,7 @@
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -74,6 +70,7 @@
    │            │             │              │            │               │
    │ Tokenized  │             │  Multi-Agent │            │  Real Estate  │
    │ Bond Mkt.  │             │  AI Systems  │            │ Tokenization  │
+   │   LIVE     │             │  BUILDING    │            │   ACTIVE      │
    │            │             │              │            │               │
    │ Polygon    │             │ GPT-4 Claude │            │ Polygon ERC   │
    │ ERC-1155   │             │ LangGraph    │            │ Fractional    │
@@ -83,7 +80,7 @@
                           │    SHAMIM FOREVER     │
                           │                       │
                           │  Luxury Fragrance     │
-                          │  E-Commerce (LIVE)    │
+                          │  E-Commerce  LIVE     │
                           │                       │
                           │  Next.js · Supabase   │
                           │  shamimforever.com    │
@@ -94,10 +91,10 @@
 
 | Vertical | Status | Technology | Market |
 |:---------|:------:|:----------:|:------:|
-| **🔴 OKBOND** — Blockchain Bond Marketplace | `TESTNET` | Polygon · Solidity · ERC-1155 | DeFi / Fixed Income |
-| **🟡 ORAKZAIX** — AI Intelligence Platform | `BUILDING` | GPT-4o · LangGraph · CrewAI | Enterprise AI |
-| **🟢 ORAKZAI PROPERTIES** — Real Estate Token | `ACTIVE` | Polygon · Next.js · Supabase | PropTech / DeFi |
-| **🔵 SHAMIM FOREVER** — Luxury Fragrance | `LIVE` | Next.js · Supabase · Vercel | Luxury E-Commerce |
+| **🔴 OKBOND** — Blockchain Bond Marketplace | `🟢 LIVE` | Polygon · Solidity · ERC-1155 | DeFi / Fixed Income |
+| **🟡 ORAKZAIX** — AI Intelligence Platform | `⚙️ BUILDING` | GPT-4o · LangGraph · CrewAI | Enterprise AI |
+| **🟢 ORAKZAI PROPERTIES** — Real Estate Token | `🟢 ACTIVE` | Polygon · Next.js · Supabase | PropTech / DeFi |
+| **🔵 SHAMIM FOREVER** — Luxury Fragrance | `🟢 LIVE` | Next.js · Supabase · Vercel | Luxury E-Commerce |
 
 </div>
 
@@ -259,36 +256,36 @@
 
 thesis:
   core: "Real-world assets + digital infrastructure = compounding sovereign wealth"
-  
+
   vertical_1:
     name: OKBOND
-    hypothesis: "Pakistan's $40B bond market is entirely offline. We tokenize it."
-    moat: First-mover in Polygon-based government + corporate bond tokenization
-    phase: Testnet → SECP sandbox → Mainnet Q4 2025
+    status: LIVE
+    hypothesis: "Pakistan's bond market deserves on-chain transparency. We built it."
+    moat: First Polygon-based government + corporate bond tokenization in Pakistan
 
   vertical_2:
     name: ORAKZAIX
+    status: BUILDING
     hypothesis: "Every SME in Pakistan needs AI operations. None can afford it."
     moat: Domain-specific LLM fine-tuning on Pakistan finance + real estate data
-    phase: MVP → Enterprise pilots Q3 2025
 
   vertical_3:
     name: ORAKZAI PROPERTIES
+    status: ACTIVE
     hypothesis: "PKR 1M minimum kills real estate investment. Fraction it."
     moat: Only platform with on-chain fractional property ownership in Pakistan
-    phase: Beta → 10 properties tokenized Q4 2025
 
   vertical_4:
     name: SHAMIM FOREVER
+    status: LIVE
     hypothesis: "Luxury fragrance market in Pakistan is offline. Own digital."
     moat: First luxury fragrance brand with full digital-native operations
-    phase: LIVE → 50 SKUs + international shipping 2025
-    
+
   timeline:
     2024: "Foundation — build all 4 verticals simultaneously"
-    2025: "Traction — first revenue across all verticals"
-    2027: "Scale — regional expansion (UAE, UK, EU)"
-    2030: "Sovereignty — self-funding conglomerate, no external dependency"
+    2025: "Traction — revenue across all verticals. OKBOND live."
+    2027: "Scale — regional expansion UAE · UK · EU"
+    2030: "Sovereignty — self-funding conglomerate, zero external dependency"
 ```
 
 ---
@@ -301,16 +298,7 @@ thesis:
 
 ## ◈ &nbsp; CONSISTENCY IS POWER
 
-*The green squares below represent daily compounding — every commit builds the empire.*
-
-```
-Jan ──────────────────────────────────────── Dec
-█ █ █ █ █ █ █   Blockchain architecture
-  █ █ █ █ █ █   AI system orchestration
-█ █   █ █ █ █   Smart contract development
-█ █ █ █   █ █   Full-stack web applications
-█ █ █ █ █ █ █   Infrastructure & DevOps
-```
+*Every commit is a brick. Every day builds the empire.*
 
 **Philosophy:** *"Amateurs wait for motivation. Sovereigns build on schedule."*
 
@@ -372,10 +360,8 @@ Jan ─────────────────────────�
 ---
 
 <div align="center">
-
 <sub>
 ⚡ GitHub Actions: Snake regenerates nightly · Metrics refresh every 24h · All systems operational<br/>
 © 2025 Muhammad Faisal Orakzai · ORAKZAI GROUP · MIT Licensed
 </sub>
-
 </div>
