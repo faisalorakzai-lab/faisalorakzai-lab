@@ -1,367 +1,197 @@
 <div align="center">
+  <img src="./header.svg" width="100%" alt="Muhammad Faisal Orakzai — Founder & Chairman"/>
+  </div>
 
-<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/banner.svg" width="100%" alt="MUHAMMAD FAISAL ORAKZAI — SOVEREIGN DIGITAL INFRASTRUCTURE"/>
-
-</div>
-
-<!-- ══════════════════════════════════════════════════ -->
-<!--              VERIFIED STATUS BAR                  -->
-<!-- ══════════════════════════════════════════════════ -->
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-faisalorakzaii-0A0A0A?style=flat-square&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/faisalorakzaii)
-[![GitHub](https://img.shields.io/badge/GitHub-faisalorakzai--lab-0A0A0A?style=flat-square&logo=github&logoColor=D4AF37)](https://github.com/faisalorakzai-lab)
-[![Status](https://img.shields.io/badge/Status-Building%20Global%20Empire-D4AF37?style=flat-square&labelColor=0A0A0A)](https://github.com/faisalorakzai-lab)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-0A0A0A?style=flat-square&logo=opensourceinitiative&logoColor=D4AF37)](https://github.com/faisalorakzai-lab)
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════ -->
-<!--           WORLD #1 MISSION STATEMENT              -->
-<!-- ══════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   I did not come to participate. I came to own infrastructure,               ║
-║   build systems that compound across decades, and prove that                 ║
-║   a builder from Pakistan can command global capital flows.                  ║
-║                                                                              ║
-║   Blockchain. AI. Real Assets. Digital Commerce.                             ║
-║   These are not separate bets — they are one sovereign thesis.               ║
-║                                                                              ║
-║                              — MUHAMMAD FAISAL ORAKZAI                       ║
-║                                Founder · ORAKZAI GROUP                       ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════ -->
-<!--            GLOBAL ECOSYSTEM OVERVIEW              -->
-<!-- ══════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ◈ &nbsp; THE ORAKZAI GLOBAL ECOSYSTEM
-
-*Four verticals. One thesis. Building Pakistan's first sovereign digital conglomerate.*
-
-</div>
-
-```
-                          ┌─────────────────────────┐
-                          │     ORAKZAI GROUP        │
-                          │  Sovereign Holding Co.   │
-                          └───────────┬─────────────┘
-                                      │
-         ┌────────────────────────────┼────────────────────────────┐
-         │                            │                            │
-   ┌─────▼──────┐             ┌───────▼──────┐            ┌───────▼───────┐
-   │   OKBOND   │             │  ORAKZAIX    │            │   PROPERTIES  │
-   │            │             │              │            │               │
-   │ Tokenized  │             │  Multi-Agent │            │  Real Estate  │
-   │ Bond Mkt.  │             │  AI Systems  │            │ Tokenization  │
-   │   LIVE     │             │  BUILDING    │            │   ACTIVE      │
-   │            │             │              │            │               │
-   │ Polygon    │             │ GPT-4 Claude │            │ Polygon ERC   │
-   │ ERC-1155   │             │ LangGraph    │            │ Fractional    │
-   └────────────┘             └──────────────┘            └───────────────┘
-                                      │
-                          ┌───────────▼──────────┐
-                          │    SHAMIM FOREVER     │
-                          │                       │
-                          │  Luxury Fragrance     │
-                          │  E-Commerce  LIVE     │
-                          │                       │
-                          │  Next.js · Supabase   │
-                          │  shamimforever.com    │
-                          └───────────────────────┘
-```
-
-<div align="center">
-
-| Vertical | Status | Technology | Market |
-|:---------|:------:|:----------:|:------:|
-| **🔴 OKBOND** — Blockchain Bond Marketplace | `🟢 LIVE` | Polygon · Solidity · ERC-1155 | DeFi / Fixed Income |
-| **🟡 ORAKZAIX** — AI Intelligence Platform | `⚙️ BUILDING` | GPT-4o · LangGraph · CrewAI | Enterprise AI |
-| **🟢 ORAKZAI PROPERTIES** — Real Estate Token | `🟢 ACTIVE` | Polygon · Next.js · Supabase | PropTech / DeFi |
-| **🔵 SHAMIM FOREVER** — Luxury Fragrance | `🟢 LIVE` | Next.js · Supabase · Vercel | Luxury E-Commerce |
+  <div align="center">
 
-</div>
+  [![Website](https://img.shields.io/badge/🌐-orakzai--group.github.io-FFD700?style=for-the-badge&color=050505&labelColor=FFD700)](https://orakzai-group.github.io)
+  [![Org](https://img.shields.io/badge/⚙-Orakzai--Group-4169E1?style=for-the-badge&color=050505&labelColor=4169E1)](https://github.com/Orakzai-Group)
+  [![LinkedIn](https://img.shields.io/badge/in-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faisalorakzaii)
 
----
+  </div>
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--              PROJECT SHOWCASE CARDS               -->
-<!-- ══════════════════════════════════════════════════ -->
+  ---
 
-<div align="center">
+  <div align="center">
 
-## ◈ &nbsp; LIVE VENTURES
+  ```
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║   MUHAMMAD FAISAL ORAKZAI  ·  FOUNDER & CHAIRMAN  ·  ORAKZAI GROUP  ║
+  ║   12 DIVISIONS  ·  250+ SYSTEMS  ·  CIVILIZATION SCALE  ·  2100     ║
+  ╚══════════════════════════════════════════════════════════════════════╝
+  ```
 
-<table>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/faisalorakzai-lab/orakzaibondwebsiten">
-<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-okbond.svg" width="98%" alt="OKBOND — Tokenized Bond Marketplace"/>
-</a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/faisalorakzai-lab/Adamorakzaix">
-<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-orakzaix.svg" width="98%" alt="ORAKZAIX — AI Intelligence Systems"/>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/faisalorakzai-lab/Orakzai-Properties">
-<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-properties.svg" width="98%" alt="ORAKZAI PROPERTIES — Real Estate Tokenization"/>
-</a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/faisalorakzai-lab/shamimforever">
-<img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card-shamimforever.svg" width="98%" alt="SHAMIM FOREVER — Luxury Fragrance E-Commerce"/>
-</a>
-</td>
-</tr>
-</table>
+  </div>
 
-</div>
+  ---
 
----
+  ## ◈ About
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--              GITHUB METRICS — GOLD THEME          -->
-<!-- ══════════════════════════════════════════════════ -->
+  > **Building civilization-scale architecture** — not a startup, not a company, but a sovereign system that compounds across generations.
 
-<div align="center">
+  I am the **Founder & Chairman** of **Orakzai Group** — a private multi-sector conglomerate spanning **12 divisions** and **250+ active systems** across AI, Blockchain, Real Estate, Energy, Media, Finance, and beyond.
 
-## ◈ &nbsp; SYSTEM METRICS
+  My work is not measured in quarterly results. It is measured in **decades and civilizations**.
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=faisalorakzai-lab&show_icons=true&theme=dark&bg_color=0A0A0A&border_color=D4AF37&title_color=D4AF37&icon_color=D4AF37&text_color=F5F5F5&ring_color=D4AF37&count_private=true&include_all_commits=true&custom_title=ORAKZAI%20NETWORK%20METRICS" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalorakzai-lab&layout=compact&theme=dark&bg_color=0A0A0A&border_color=D4AF37&title_color=D4AF37&text_color=F5F5F5&custom_title=PRIMARY%20LANGUAGES" alt="Top Languages"/>
+  | | |
+  |:---|:---|
+  | 🏛 **Role** | Founder & Chairman — Orakzai Group |
+  | 🌍 **Scope** | Global — Pakistan · UAE · UK · USA |
+  | 🎯 **Mission** | Designing systems that compound across centuries |
+  | ⚡ **Focus** | AI · Blockchain · Capital · Infrastructure · Culture |
+  | 🔭 **Epoch** | Building towards 2100 |
 
-<br/><br/>
+  ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=faisalorakzai-lab&theme=dark&background=0A0A0A&border=D4AF37&stroke=D4AF37&ring=D4AF37&fire=FFD700&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=888888" alt="GitHub Streak"/>
+  ## ◈ Orakzai Group — 12 Division Command
 
-</div>
+  <div align="center">
 
----
+  [![01 Technologies](https://img.shields.io/badge/01-TECHNOLOGIES-050505?style=flat-square&labelColor=FFD700&color=050505)](https://github.com/Orakzai-Group/Orakzai-Technologies)
+  [![02 Finance](https://img.shields.io/badge/02-FINANCE-050505?style=flat-square&labelColor=22C55E&color=050505)](https://github.com/Orakzai-Group/Orakzai-Finance)
+  [![03 Real Estate](https://img.shields.io/badge/03-REAL%20ESTATE-050505?style=flat-square&labelColor=F97316&color=050505)](https://github.com/Orakzai-Group/Orakzai-RealEstate)
+  [![04 Food](https://img.shields.io/badge/04-FOOD-050505?style=flat-square&labelColor=EF4444&color=050505)](https://github.com/Orakzai-Group/Orakzai-Food)
+  [![05 Media](https://img.shields.io/badge/05-MEDIA-050505?style=flat-square&labelColor=A855F7&color=050505)](https://github.com/Orakzai-Group/Orakzai-Media)
+  [![06 Lifestyle](https://img.shields.io/badge/06-LIFESTYLE-050505?style=flat-square&labelColor=EC4899&color=050505)](https://github.com/Orakzai-Group/Orakzai-Lifestyle)
+  [![07 Travel](https://img.shields.io/badge/07-TRAVEL-050505?style=flat-square&labelColor=06B6D4&color=050505)](https://github.com/Orakzai-Group/Orakzai-Travel)
+  [![08 Energy](https://img.shields.io/badge/08-ENERGY-050505?style=flat-square&labelColor=F59E0B&color=050505)](https://github.com/Orakzai-Group/Orakzai-Energy)
+  [![09 Education](https://img.shields.io/badge/09-EDUCATION-050505?style=flat-square&labelColor=10B981&color=050505)](https://github.com/Orakzai-Group/Orakzai-Education)
+  [![10 Base Chain](https://img.shields.io/badge/10-BASE%20CHAIN-050505?style=flat-square&labelColor=8B5CF6&color=050505)](https://github.com/Orakzai-Group/Orakzai-Base)
+  [![11 Mills](https://img.shields.io/badge/11-MILLS-050505?style=flat-square&labelColor=84CC16&color=050505)](https://github.com/Orakzai-Group/Orakzai-Mills)
+  [![12 Textile](https://img.shields.io/badge/12-TEXTILE-050505?style=flat-square&labelColor=F43F5E&color=050505)](https://github.com/Orakzai-Group/Orakzai-Textile)
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--              CONTRIBUTION ACTIVITY                -->
-<!-- ══════════════════════════════════════════════════ -->
+  </div>
 
-<div align="center">
+  | # | Division | Sector | Systems |
+  |:---:|:---|:---|:---:|
+  | 01 | [Orakzai Technologies](https://github.com/Orakzai-Group/Orakzai-Technologies) | AI · Robotics · Quantum · Cloud · Cyber · IoT | **25** |
+  | 02 | [Orakzai Finance & Capital](https://github.com/Orakzai-Group/Orakzai-Finance) | Banking · DeFi · Forex · Insurance · VC | **20** |
+  | 03 | [Orakzai Real Estate](https://github.com/Orakzai-Group/Orakzai-RealEstate) | Smart Cities · Builders · Resorts · Skyscrapers | **20** |
+  | 04 | [Orakzai Food & Beverages](https://github.com/Orakzai-Group/Orakzai-Food) | Restaurants · Farms · Dairy · Exports | **20** |
+  | 05 | [Orakzai Media & Entertainment](https://github.com/Orakzai-Group/Orakzai-Media) | Film · News · Music · OTT · Esports | **20** |
+  | 06 | [Orakzai Lifestyle & Fashion](https://github.com/Orakzai-Group/Orakzai-Lifestyle) | Apparel · Jewelry · Wellness · Luxury | **20** |
+  | 07 | [Orakzai Travel & Hospitality](https://github.com/Orakzai-Group/Orakzai-Travel) | Hotels · Airlines · Tours · Shipping | **20** |
+  | 08 | [Orakzai Energy & Industry](https://github.com/Orakzai-Group/Orakzai-Energy) | Solar · Wind · EV · Steel · Defense | **20** |
+  | 09 | [Orakzai Education & Health](https://github.com/Orakzai-Group/Orakzai-Education) | Schools · Hospitals · Biotech · Pharma | **20** |
+  | 10 | [Orakzai Base](https://github.com/Orakzai-Group/Orakzai-Base) | Layer-1 · DEX · DeFi · NFT · DAO · Metaverse | **31** |
+  | 11 | [Orakzai Mills](https://github.com/Orakzai-Group/Orakzai-Mills) | Sugar · Rice · Flour · Oil · Cotton · Paper | **15** |
+  | 12 | [Orakzai Textile](https://github.com/Orakzai-Group/Orakzai-Textile) | Spinning · Garments · Denim · Silk · Export | **20** |
 
-## ◈ &nbsp; CONTRIBUTION INTELLIGENCE
+  ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faisalorakzai-lab&bg_color=0A0A0A&color=D4AF37&line=D4AF37&point=F5D060&area_color=D4AF37&area=true&hide_border=false&border_color=D4AF37&custom_title=ORAKZAI%20NETWORK%20%E2%80%94%20COMMIT%20ACTIVITY" width="100%" alt="Activity Graph"/>
+  ## ◈ Currently Building
 
-<br/>
+  ```yaml
+  status:     OPERATIONAL
+  focus:
+    - Orakzai Chain        # Layer-1 sovereign blockchain
+    - Orakzai AI Core      # Multi-agent intelligence network
+    - Orakzai Smart Cities # Physical civilization infrastructure
+    - Orakzai Capital Grid # Global financial architecture
+    - PSC Exchange         # Stock + Crypto unified market
+  epoch:      2100
+  philosophy: "Systems that compound across centuries"
+  ```
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/output/github-snake.svg"/>
-  <img alt="GitHub Contribution Snake" width="100%"
-    src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/output/github-snake.svg"/>
-</picture>
+  ---
 
-</div>
+  ## ◈ Technology Arsenal
 
----
+  <div align="center">
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--                ACHIEVEMENT HALL                   -->
-<!-- ══════════════════════════════════════════════════ -->
+  **Blockchain & Web3**
 
-<div align="center">
+  ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+  ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+  ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
+  ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
 
-## ◈ &nbsp; ACHIEVEMENT HALL
+  **AI & Data**
 
-<img src="https://github-profile-trophy.vercel.app/?username=faisalorakzai-lab&theme=darkhub&no-frame=false&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="GitHub Trophies"/>
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-</div>
+  **Full Stack**
 
----
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--          TECHNOLOGY STACK — MATTE BLACK           -->
-<!-- ══════════════════════════════════════════════════ -->
+  **Cloud & Infrastructure**
 
-<div align="center">
+  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-## ◈ &nbsp; TECHNOLOGY COMMAND
+  </div>
 
-**Languages**
+  ---
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=D4AF37)
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=D4AF37)
-![Solidity](https://img.shields.io/badge/Solidity-0A0A0A?style=for-the-badge&logo=solidity&logoColor=D4AF37)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=D4AF37)
-![Rust](https://img.shields.io/badge/Rust-0A0A0A?style=for-the-badge&logo=rust&logoColor=D4AF37)
+  ## ◈ GitHub Intelligence
 
-**Frameworks & Runtimes**
+  <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js&logoColor=D4AF37)
-![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=D4AF37)
-![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=D4AF37)
-![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=D4AF37)
-![Express](https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express&logoColor=D4AF37)
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=faisalorakzai-lab&show_icons=true&theme=midnight-purple&bg_color=050505&title_color=FFD700&text_color=ffffff&icon_color=4169E1&border_color=FFD700&border_radius=0&hide_border=false&count_private=true&show=reviews,discussions_started" alt="GitHub Stats"/>
 
-**Infrastructure & Data**
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalorakzai-lab&layout=compact&theme=midnight-purple&bg_color=050505&title_color=FFD700&text_color=ffffff&border_color=FFD700&border_radius=0&hide_border=false&langs_count=8" alt="Top Languages"/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=D4AF37)
-![Supabase](https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase&logoColor=D4AF37)
-![Redis](https://img.shields.io/badge/Redis-0A0A0A?style=for-the-badge&logo=redis&logoColor=D4AF37)
-![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=D4AF37)
-![Vercel](https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge&logo=vercel&logoColor=D4AF37)
+  </div>
 
-**Blockchain & AI**
+  <div align="center">
 
-![Polygon](https://img.shields.io/badge/Polygon-0A0A0A?style=for-the-badge&logo=polygon&logoColor=D4AF37)
-![Ethereum](https://img.shields.io/badge/Ethereum-0A0A0A?style=for-the-badge&logo=ethereum&logoColor=D4AF37)
-![OpenAI](https://img.shields.io/badge/OpenAI-0A0A0A?style=for-the-badge&logo=openai&logoColor=D4AF37)
-![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=D4AF37)
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalorakzai-lab&theme=midnight-purple&background=050505&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=ffffff&border=FFD700&stroke=222222&dates=888888" alt="GitHub Streak"/>
 
-</div>
+  </div>
 
----
+  <div align="center">
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--                THE BUILDER'S THESIS               -->
-<!-- ══════════════════════════════════════════════════ -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=faisalorakzai-lab&bg_color=050505&color=FFD700&line=4169E1&point=FFD700&area=true&area_color=4169E1&border_color=FFD700&hide_border=false&custom_title=Orakzai%20Contribution%20Architecture" alt="Activity Graph"/>
 
-<div align="center">
+  </div>
 
-## ◈ &nbsp; THE SOVEREIGN THESIS
+  ---
 
-</div>
+  ## ◈ Sovereign Vision
 
-```yaml
-# ORAKZAI GROUP — Strategic Framework 2025–2035
+  <div align="center">
 
-thesis:
-  core: "Real-world assets + digital infrastructure = compounding sovereign wealth"
+  > *"I am not here to build another company.*
+  > *I am here to build a civilization layer —*
+  > *one that outlasts me, outlasts my generation,*
+  > *and becomes the infrastructure of the world."*
+  >
+  > **— Muhammad Faisal Orakzai**
+  > *Founder & Chairman, Orakzai Group*
 
-  vertical_1:
-    name: OKBOND
-    status: LIVE
-    hypothesis: "Pakistan's bond market deserves on-chain transparency. We built it."
-    moat: First Polygon-based government + corporate bond tokenization in Pakistan
+  </div>
 
-  vertical_2:
-    name: ORAKZAIX
-    status: BUILDING
-    hypothesis: "Every SME in Pakistan needs AI operations. None can afford it."
-    moat: Domain-specific LLM fine-tuning on Pakistan finance + real estate data
+  ---
 
-  vertical_3:
-    name: ORAKZAI PROPERTIES
-    status: ACTIVE
-    hypothesis: "PKR 1M minimum kills real estate investment. Fraction it."
-    moat: Only platform with on-chain fractional property ownership in Pakistan
+  ## ◈ Connect
 
-  vertical_4:
-    name: SHAMIM FOREVER
-    status: LIVE
-    hypothesis: "Luxury fragrance market in Pakistan is offline. Own digital."
-    moat: First luxury fragrance brand with full digital-native operations
+  <div align="center">
 
-  timeline:
-    2024: "Foundation — build all 4 verticals simultaneously"
-    2025: "Traction — revenue across all verticals. OKBOND live."
-    2027: "Scale — regional expansion UAE · UK · EU"
-    2030: "Sovereignty — self-funding conglomerate, zero external dependency"
-```
+  | Platform | Link |
+  |:---:|:---|
+  | 🌐 **Website** | [orakzai-group.github.io](https://orakzai-group.github.io) |
+  | 🏛 **Org GitHub** | [github.com/Orakzai-Group](https://github.com/Orakzai-Group) |
+  | 💼 **LinkedIn** | [linkedin.com/in/faisalorakzaii](https://linkedin.com/in/faisalorakzaii) |
+  | 📧 **Email** | info@orakzaibond.com |
+  | 📍 **Location** | Global — Pakistan · UAE · UK · USA |
 
----
+  </div>
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--              CONSISTENCY STATEMENT                -->
-<!-- ══════════════════════════════════════════════════ -->
+  ---
 
-<div align="center">
-
-## ◈ &nbsp; CONSISTENCY IS POWER
-
-*Every commit is a brick. Every day builds the empire.*
-
-**Philosophy:** *"Amateurs wait for motivation. Sovereigns build on schedule."*
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════ -->
-<!--                   CONNECT                         -->
-<!-- ══════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ◈ &nbsp; CONNECT WITH THE SOVEREIGN
-
-<table>
-<tr>
-<td align="center" width="200">
-<a href="https://linkedin.com/in/faisalorakzaii">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"/>
-</a>
-</td>
-<td align="center" width="200">
-<a href="https://github.com/faisalorakzai-lab">
-<img src="https://img.shields.io/badge/GitHub-Follow-0A0A0A?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub"/>
-</a>
-</td>
-<td align="center" width="200">
-<a href="mailto:faisal@orakzai.com">
-<img src="https://img.shields.io/badge/Email-Contact-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email"/>
-</a>
-</td>
-</tr>
-</table>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=faisalorakzai-lab&color=D4AF37&style=flat-square&label=PROFILE+VIEWS&base=500)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/faisalorakzai-lab?label=FOLLOWERS&style=flat-square&color=D4AF37&labelColor=0A0A0A)](https://github.com/faisalorakzai-lab?tab=followers)
-&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/faisalorakzai-lab?label=TOTAL+STARS&style=flat-square&color=D4AF37&labelColor=0A0A0A)](https://github.com/faisalorakzai-lab)
-
-<br/>
-
-```
- ██████╗ ██████╗  █████╗ ██╗  ██╗███████╗ █████╗ ██╗
-██╔═══██╗██╔══██╗██╔══██╗██║ ██╔╝╚════██║██╔══██╗██║
-██║   ██║██████╔╝███████║█████╔╝     ██╔╝███████║██║
-██║   ██║██╔══██╗██╔══██║██╔═██╗    ██╔╝ ██╔══██║██║
-╚██████╔╝██║  ██║██║  ██║██║  ██╗   ██║  ██║  ██║███████╗
- ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝╚══════╝
-
-         PAKISTAN → WORLD · BUILDING SOVEREIGN DIGITAL INFRASTRUCTURE
-```
-
-</div>
-
----
-
-<div align="center">
-<sub>
-⚡ GitHub Actions: Snake regenerates nightly · Metrics refresh every 24h · All systems operational<br/>
-© 2025 Muhammad Faisal Orakzai · ORAKZAI GROUP · MIT Licensed
-</sub>
-</div>
+  <div align="center">
+  <sub><sup>MUHAMMAD FAISAL ORAKZAI · FOUNDER & CHAIRMAN · ORAKZAI GROUP · 12 DIVISIONS · 250+ SYSTEMS · CIVILIZATION SCALE · EPOCH 2100</sup></sub>
+  </div>
+  
