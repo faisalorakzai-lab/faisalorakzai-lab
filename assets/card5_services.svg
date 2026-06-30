@@ -1,0 +1,27 @@
+<svg width="420" height="220" viewBox="0 0 420 220" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#020510"/>
+  <stop offset="100%" stop-color="#010208"/>
+</linearGradient>
+<radialGradient id="glow" cx="20%" cy="50%" r="60%">
+  <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.2"/>
+  <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="420" height="220" fill="url(#bg)" rx="4"/>
+<rect width="420" height="220" fill="url(#glow)" rx="4"/>
+<rect x="0" y="0" width="4" height="220" fill="#3B82F6"/>
+<rect x="0" y="0" width="420" height="1" fill="#3B82F6" opacity="0.4"/>
+<rect x="0" y="219" width="420" height="1" fill="#3B82F6" opacity="0.2"/>
+<text x="310" y="140" font-size="90" opacity="0.04" fill="#3B82F6" font-family="monospace">⚙</text>
+<circle cx="55" cy="65" r="28" fill="#3B82F6" opacity="0.12"/>
+<text x="55" y="73" text-anchor="middle" font-size="28">🔶</text>
+<rect x="14" y="14" width="60" height="16" rx="2" fill="#3B82F6" opacity="0.2"/>
+<text x="44" y="26" text-anchor="middle" font-size="9" fill="#3B82F6" font-family="monospace" font-weight="700" letter-spacing="1">LIVE</text>
+<text x="14" y="115" font-size="22" font-weight="800" fill="white" font-family="Arial, sans-serif">OrakzaiServices</text>
+<text x="14" y="135" font-size="11" fill="#3B82F6" font-family="monospace" font-weight="700" letter-spacing="2">SOVEREIGN SERVICES PLATFORM</text>
+<text x="14" y="160" font-size="11.5" fill="rgba(255,255,255,0.6)" font-family="Arial, sans-serif">Full-stack sovereign services infrastructure.</text>
+<text x="14" y="177" font-size="11.5" fill="rgba(255,255,255,0.6)" font-family="Arial, sans-serif">TypeScript · Node.js · Multi-sector.</text>
+<text x="14" y="205" font-size="10" fill="#3B82F6" font-family="monospace" letter-spacing="2">github.com/faisalorakzai-lab →</text>
+</svg>
