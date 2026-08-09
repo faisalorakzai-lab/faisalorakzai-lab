@@ -1,14 +1,14 @@
 <div align="center">
 
-[![Muhammad Faisal Orakzai — Founder & Chairman · Orakzai Group](https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/header.svg)](https://faisalorakzai.vercel.app)
+[![Muhammad Faisal Orakzai — Founder & Chairman · Orakzai Group](https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/header.svg)](https://faisalorakzai.com)
 
 </div>
 
 <div align="center">
 
-[Hire Me](https://faisalorakzai.vercel.app/ecosystem) &nbsp;·&nbsp; [Request A Quote](mailto:imorakzai1122@gmail.com) &nbsp;·&nbsp; [View Portfolio](https://faisalorakzai.vercel.app) &nbsp;·&nbsp; [Invest](https://orakzaibond.com) &nbsp;·&nbsp; [For Partners](https://faisalorakzai.vercel.app/ecosystem) &nbsp;·&nbsp; [For Enterprises](https://faisalorakzai.vercel.app/ecosystem)
+[Hire Me](https://faisalorakzai.com/ecosystem) &nbsp;·&nbsp; [Request A Quote](mailto:imorakzai1122@gmail.com) &nbsp;·&nbsp; [View Portfolio](https://faisalorakzai.com) &nbsp;·&nbsp; [Invest](https://orakzaibond.com) &nbsp;·&nbsp; [For Partners](https://faisalorakzai.com/ecosystem) &nbsp;·&nbsp; [For Enterprises](https://faisalorakzai.com/ecosystem)
 
-[Chat With Me](mailto:imorakzai1122@gmail.com) &nbsp;·&nbsp; [Work With Me](https://faisalorakzai.vercel.app) &nbsp;·&nbsp; [Orakzai Bond](https://orakzaibond.com) &nbsp;·&nbsp; [Shamim Forever](https://www.shamimforever.com)
+[Chat With Me](mailto:imorakzai1122@gmail.com) &nbsp;·&nbsp; [Work With Me](https://faisalorakzai.com) &nbsp;·&nbsp; [Orakzai Bond](https://orakzaibond.com) &nbsp;·&nbsp; [Shamim Forever](https://www.shamimforever.com)
 
 </div>
 
@@ -24,7 +24,7 @@
 </a>
 </td>
 <td align="center" width="33%">
-<a href="https://faisalorakzai.vercel.app" title="OkzByte — Gated AI Software Studio">
+<a href="https://faisalorakzai.com" title="OkzByte — Gated AI Software Studio">
 <img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/assets/card2_okzbyte.svg" width="100%" alt="OkzByte"/>
 </a>
 </td>
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-[🌐 My Website — faisalorakzai.vercel.app](https://faisalorakzai.vercel.app) &nbsp;·&nbsp; [🔵 Orakzai Bond — orakzaibond.com](https://orakzaibond.com) &nbsp;·&nbsp; [🏢 Shamim Forever — shamimforever.com](https://www.shamimforever.com)
+[🌐 My Website — faisalorakzai.com](https://faisalorakzai.com) &nbsp;·&nbsp; [🔵 Orakzai Bond — orakzaibond.com](https://orakzaibond.com) &nbsp;·&nbsp; [🏢 Shamim Forever — shamimforever.com](https://www.shamimforever.com)
 
 </div>
 
@@ -89,7 +89,17 @@
 
 I am 🏛️ **Founder & Chairman of Orakzai Group** — Pakistan's youngest blockchain architect and 🏆 **Stevie Gold Award Winner 2026** *(Best Young Entrepreneur · International Business Awards®)*.
 
-Born April 30, 2006, in Orakzai Agency, KPK, Pakistan — I began building at age 12 in Karachi, establishing Orakzai Group by 2019 across real estate, blockchain, AI, and luxury markets.
+> **Philosophy:** *"Redefining Asset Ownership Through Blockchain Architecture."*
+
+Born on April 30, 2006, in **Orakzai Agency (Tirah Valley)**, Khyber Pakhtunkhwa (KPK), Pakistan. I am of Pashtun heritage from the Orakzai tribe. I began building at age 12 in Karachi, establishing **Orakzai Group** by 2019. Today, I lead a global technology and venture organization operating across blockchain, AI, fintech, luxury commerce, and digital infrastructure.
+
+
+
+### 📌 Quick Facts
+- 🌍 **Origin:** Tirah Valley, Orakzai District, KPK, Pakistan.
+- 🏢 **Headquarters:** Karachi, Pakistan.
+- 🚀 **Mission:** Building scalable technology platforms that shape industries by combining AI, blockchain, and real-world economic systems.
+- 💎 **Specialization:** Blockchain Architecture (Polygon, Ethereum, Solidity), Artificial Intelligence, and RWA Tokenization.
 
 Welcome to my GitHub. Here you can find:
 
@@ -105,7 +115,7 @@ Welcome to my GitHub. Here you can find:
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=F3BA2F&center=true&vCenter=true&width=800&lines=Founder+%26+Chairman+%E2%80%94+Orakzai+Group+SMC+%F0%9F%8F%9B%EF%B8%8F;Pakistan's+Youngest+Blockchain+Architect+%E2%9B%93;Stevie+Gold+Award+%E2%80%94+Best+Young+Entrepreneur+2026+%F0%9F%8F%86;OKBOND+on+Polygon+Layer-2+%E2%97%88+ERC-4626;DeFi+%C2%B7+AI+%C2%B7+PropTech+%C2%B7+Luxury+Web3+%F0%9F"'"+9F%94%B5;Born+2006+%C2%B7+KPK+Pakistan+%C2%B7+Building+Global+Systems+%F0%9F%8C%90;Founder+Institute+Assessed+%C2%B7+2026+%F0%9F%9A%80;Wikidata+Verified+%E2%80%94+Q140264666)](https://faisalorakzai.vercel.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=F3BA2F&center=true&vCenter=true&width=800&lines=Founder+%26+Chairman+%E2%80%94+Orakzai+Group+SMC+%F0%9F%8F%9B%EF%B8%8F;Pakistan's+Youngest+Blockchain+Architect+%E2%9B%93;Stevie+Gold+Award+%E2%80%94+Best+Young+Entrepreneur+2026+%F0%9F%8F%86;OKBOND+on+Polygon+Layer-2+%E2%97%88+ERC-4626;DeFi+%C2%B7+AI+%C2%B7+PropTech+%C2%B7+Luxury+Web3+%F0%9F"'"+9F%94%B5;Born+2006+%C2%B7+KPK+Pakistan+%C2%B7+Building+Global+Systems+%F0%9F%8C%90;Founder+Institute+Assessed+%C2%B7+2026+%F0%9F%9A%80;Wikidata+Verified+%E2%80%94+Q140264666)](https://faisalorakzai.com)
 
 </div>
 
@@ -130,20 +140,31 @@ Welcome to my GitHub. Here you can find:
 
 ---
 
+
+---
+
+## 🔬 Orakzai Research Lab
+I publish technical research on blockchain architecture, DeFi, AI, digital identity, and smart contracts.
+
+- **ORCID:** [0009-0000-0915-7272](https://orcid.org/0009-0000-0915-7272)
+- **Focus Areas:** RWA Tokenization, Autonomous Finance AI, Sovereign Digital Identity.
+- **Portfolio:** [faisalorakzai.com/research](https://faisalorakzai.com/research)
+
+---
 ## 🤝 Contact & Social
 
 <div align="center">
 
 [![EMAIL](https://img.shields.io/badge/EMAIL-imorakzai1122%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imorakzai1122@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-faisalorakzaii-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faisalorakzaii)
-[![PORTFOLIO](https://img.shields.io/badge/▲_PORTFOLIO-faisalorakzai.vercel.app-000000?style=for-the-badge&logo=vercel)](https://faisalorakzai.vercel.app)
+[![PORTFOLIO](https://img.shields.io/badge/▲_PORTFOLIO-faisalorakzai.com-000000?style=for-the-badge&logo=vercel)](https://faisalorakzai.com)
 
 [![ORAKZAI BOND](https://img.shields.io/badge/🔵_OKBOND-orakzaibond.com-8247E5?style=for-the-badge)](https://orakzaibond.com)
 [![SHAMIM FOREVER](https://img.shields.io/badge/🏢_SHAMIM-shamimforever.com-EC4899?style=for-the-badge)](https://www.shamimforever.com)
 [![ORAKZAI GROUP](https://img.shields.io/badge/🏛️_ORAKZAI_GROUP-LinkedIn-F3BA2F?style=for-the-badge)](https://www.linkedin.com/company/orakzaigroup)
 
 [![WIKIDATA](https://img.shields.io/badge/Wikidata-Q140264666-006699?style=for-the-badge&logo=wikidata)](https://www.wikidata.org/wiki/Q140264666)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--2206--27-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0007-2206-27)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--0915--7272-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0000-0915-7272)
 [![CRUNCHBASE](https://img.shields.io/badge/Crunchbase-Profile-0288D1?style=for-the-badge)](https://www.crunchbase.com/person/faisal-orakzai)
 
 </div>
@@ -228,9 +249,9 @@ Welcome to my GitHub. Here you can find:
 
 | Venture | Domain | Status | Tech | Links |
 |:---:|:---:|:---:|:---:|:---:|
-| 🔵 **[Orakzai Bond](https://orakzaibond.com)** | DeFi · Fixed Income | ![LIVE](https://img.shields.io/badge/LIVE-10B981?style=flat-square) | Polygon L2 · ERC-4626 | [🌐 Web](https://orakzaibond.com) |
-| ⚫ **[OkzByte](https://faisalorakzai.vercel.app)** | Software · AI | ![LIVE](https://img.shields.io/badge/LIVE-10B981?style=flat-square) | TypeScript · React · Node | [🌐 Web](https://faisalorakzai.vercel.app) |
-| 🏢 **[Shamim Forever](https://www.shamimforever.com)** | Retail · Luxury · Web3 | ![LIVE](https://img.shields.io/badge/LIVE-10B981?style=flat-square) | Web3 · Polygon | [🌐 Web](https://www.shamimforever.com) |
+| 🔵 **[Orakzai Bond](https://orakzaibond.com)** | Sovereign Tokenized Debt | ![LIVE](https://img.shields.io/badge/LIVE-10B981?style=flat-square) | Polygon L2 · ERC-4626 | [🌐 Web](https://orakzaibond.com) |
+| ⚫ **[OkzByte](https://faisalorakzai.com)** | AI & Enterprise Software | ![LIVE](https://img.shields.io/badge/LIVE-10B981?style=flat-square) | AI · Web3 · Enterprise | [🌐 Web](https://faisalorakzai.com) |
+| 🏢 **[Shamim Forever](https://www.shamimforever.com)** | Luxury Fashion & Lifestyle | ![LIVE](https://img.shields.io/badge/LIVE-10B981?style=flat-square) | Luxury · Web3 · Heritage | [🌐 Web](https://www.shamimforever.com) |
 | 🟡 **PSC StockChain** | Capital Markets | ![LIVE](https://img.shields.io/badge/LIVE-10B981?style=flat-square) | Blockchain · Solidity | [📁 GitHub](https://github.com/faisalorakzai-lab) |
 | 🔶 **OrakzaiServices** | Services Platform | ![LIVE](https://img.shields.io/badge/LIVE-10B981?style=flat-square) | TypeScript · Multi-sector | [📁 GitHub](https://github.com/faisalorakzai-lab) |
 | 👑 **SovereignChain** | Blockchain Infra | ![DEV](https://img.shields.io/badge/IN_DEV-3B82F6?style=flat-square) | AI · Autonomous | [📁 GitHub](https://github.com/faisalorakzai-lab) |
@@ -276,7 +297,7 @@ Welcome to my GitHub. Here you can find:
 | 📚 | **Wikidata** | Verified Public Figure · Q140264666 | **2025** | [wikidata.org ↗](https://www.wikidata.org/wiki/Q140264666) |
 | 📖 | **EverybodyWiki** | Verified Public Entrepreneur Biography | **2025** | [everybodywiki.com ↗](https://en.everybodywiki.com/Faisal_Orakzai) |
 | 📊 | **Crunchbase** | Pakistan Blockchain Startup Founder | **2025** | [crunchbase.com ↗](https://www.crunchbase.com/person/faisal-orakzai) |
-| 🔬 | **ORCID** | Researcher ID: 0009-0007-2206-27 | **2025** | [orcid.org ↗](https://orcid.org/0009-0007-2206-27) |
+| 🔬 | **ORCID** | Researcher ID: 0009-0000-0915-7272 | **2025** | [orcid.org ↗](https://orcid.org/0009-0000-0915-7272) |
 | 🎓 | **Ziauddin University** | Enrolled · Elite Structural Academic Program | **2023** | Pakistan |
 
 </div>
@@ -326,7 +347,7 @@ Welcome to my GitHub. Here you can find:
 | 🏆 International Awards | Stevie Gold 2026 · IBA® |
 | 🚀 Startup Programs | Founder Institute · Y Combinator Ecosystem |
 | 🎓 Academic | Ziauddin University SMC |
-| 🔬 ORCID | 0009-0007-2206-27 |
+| 🔬 ORCID | 0009-0000-0915-7272 |
 
 <br/>
 
@@ -502,7 +523,7 @@ const orakzai: Founder = {
 
 **🌐 Let's Build the Future Together**
 
-[![🌐 Portfolio](https://img.shields.io/badge/▲_faisalorakzai.vercel.app-000?style=for-the-badge&logo=vercel)](https://faisalorakzai.vercel.app)
+[![🌐 Portfolio](https://img.shields.io/badge/▲_faisalorakzai.com-000?style=for-the-badge&logo=vercel)](https://faisalorakzai.com)
 [![📧 Email](https://img.shields.io/badge/imorakzai1122%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imorakzai1122@gmail.com)
 [![💼 LinkedIn](https://img.shields.io/badge/in%2Ffaisalorakzaii-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faisalorakzaii)
 [![🔵 OKBOND](https://img.shields.io/badge/orakzaibond.com-8247E5?style=for-the-badge)](https://orakzaibond.com)
