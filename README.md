@@ -14,6 +14,19 @@
 
 ---
 
+## 🔬 TECHNICAL RESEARCH & FORMAL VERIFICATION
+
+Official repository of the **Orakzai Research Lab**, led by **Faisal Orakzai**. We specialize in high-performance distributed systems, formal verification (TLA+/Coq), and recursive zero-knowledge architectures.
+
+### 📖 Peer-Reviewed Treatises & Elite Whitepapers
+*   **Primary Technical Treatise:** [Cross-Chain Interoperability: Formal Verification and Recursive Zero-Knowledge Architectures](https://doi.org/10.5281/zenodo.22047129) &nbsp; [![Zenodo DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22047129-blue.svg)](https://doi.org/10.5281/zenodo.22047129)
+*   **Institutional Whitepaper:** [OkzByte: The Sovereign Hybrid Exchange and RWA Marketplace](https://faisalorakzai.com/research/okzbyte-whitepaper)
+*   **Protocol Specification:** [Building Orakzai Bond (OKBOND): Algorithmic Capital Protection and RWA-Backed Treasury](https://faisalorakzai.com/research/okbond-paper)
+*   **Strategic Roadmap:** [Vision Behind Orakzai Group: Engineering the Sovereign Stack and Vision 2100](https://faisalorakzai.com/research/vision-roadmap)
+*   **Ecosystem Guidebook:** [OkzByte Ecosystem Guidebook: Strategic Framework for Stakeholders](https://faisalorakzai.com/research/guidebook)
+
+---
+
 ## 💬 Programming Wisdom
 
 <div align="center">
@@ -23,11 +36,6 @@
 [![Dev Joke](https://readme-jokes.vercel.app/api?theme=dark&hideBorder)](https://github.com/faisalorakzai-lab)
 
 </div>
-
-
-
-
-
 
 <div align="center">
 
@@ -159,6 +167,7 @@ I publish technical research at the intersection of DLT, AI, and Sovereign Ident
 - **ORCID:** [0009-0000-0915-7272](https://orcid.org/0009-0000-0915-7272)
 - **Google Scholar:** [Faisal Orakzai](https://scholar.google.com/citations?user=faisalorakzai)
 - **Research Hub:** [faisalorakzai.com/research](https://faisalorakzai.com/research)
+- **Zenodo DOI:** [10.5281/zenodo.22047129](https://doi.org/10.5281/zenodo.22047129)
 
 ---
 
@@ -175,16 +184,6 @@ I publish technical research at the intersection of DLT, AI, and Sovereign Ident
 | **IMDb** | Media Profile | [Faisal Orakzai (NM18674496)](https://www.imdb.com/name/nm18674496/) |
 
 </div>
-
----
-
-## 📄 Technical White Papers
-
-Access the architectural blueprints of Orakzai Group's core infrastructure:
-- 📑 **[Orakzai Bond — Full Framework](https://orakzaibond.com)**: Issuance, governance & redemption protocol.
-- 🛠️ **[OKBOND Technical Architecture](https://orakzaibond.com)**: Smart contracts, escrow & oracle integration.
-- ⚖️ **[Regulatory Compliance](https://orakzaibond.com)**: Legal boundary mapping and AML/KYC for G20 markets.
-- 🏘️ **[RWA Tokenization](https://orakzaibond.com)**: Fractional real estate on-chain settlement framework.
 
 ---
 
@@ -304,8 +303,6 @@ Access the architectural blueprints of Orakzai Group's core infrastructure:
 
 </div>
 
-
-
 ---
 
 ## 📡 Advanced Analytics
@@ -316,8 +313,6 @@ Access the architectural blueprints of Orakzai Group's core infrastructure:
 
 </div>
 
-
-
 ---
 
 ## 🐍 Contribution Snake
@@ -327,7 +322,7 @@ Access the architectural blueprints of Orakzai Group's core infrastructure:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/output/github-snake.svg"/>
-  <img alt="Contribution Snake — Faisal Orakzai" src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/output/github-snake-dark.svg" width="100%"/>
+  <img alt="Contribution Snake — Faisal Orakzai" src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/output/github-snake.svg"/>
 </picture>
 
 </div>
@@ -336,14 +331,6 @@ Access the architectural blueprints of Orakzai Group's core infrastructure:
 
 <div align="center">
 
-**🌐 Let's Build the Future Together**
-
-[![🌐 Portfolio](https://img.shields.io/badge/▲_faisalorakzai.com-000?style=for-the-badge&logo=vercel)](https://faisalorakzai.com)
-[![📧 Email](https://img.shields.io/badge/imorakzai1122%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imorakzai1122@gmail.com)
-[![💼 LinkedIn](https://img.shields.io/badge/in%2Ffaisalorakzaii-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faisalorakzaii)
-
-<sub>⭐ Building at civilization scale — Orakzai Group SMC · Pakistan · Global</sub>
-<br/>
-<sub>© 2026 Muhammad Faisal Orakzai · All Rights Reserved</sub>
+*Muhammad Faisal Orakzai — Founder & Chairman · Orakzai Group · 12 Divisions · 250+ Systems · Civilization Scale*
 
 </div>
