@@ -334,3 +334,14 @@ I publish technical research at the intersection of DLT, AI, and Sovereign Ident
 *Muhammad Faisal Orakzai — Founder & Chairman · Orakzai Group · 12 Divisions · 250+ Systems · Civilization Scale*
 
 </div>
+
+---
+## 🤝 Collaboration & Contributions
+
+This profile repository is the public starting point for collaborating with the Orakzai Research Lab. For technical proposals, documentation improvements, or reproducible research contributions:
+
+1. Open an issue with the problem statement, expected outcome, and relevant links.
+2. For code or documentation changes, create a focused pull request with a clear description and validation notes.
+3. Keep changes small, evidence-based, and respectful of responsible disclosure requirements.
+
+For security-sensitive reports, please do not publish credentials, private data, or exploit details in a public issue. Use a private contact channel from the links above instead.
