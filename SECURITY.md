@@ -55,3 +55,11 @@ from the ORAKZAI GROUP team.
 ---
 *© 2025 Muhammad Faisal Orakzai — ORAKZAI GROUP*
 *[linkedin.com/in/faisalorakzaii](https://linkedin.com/in/faisalorakzaii)*
+
+## Sensitive data handling
+
+Never commit API keys, passwords, seed phrases, private keys, access tokens, or personal data. If sensitive data is exposed, revoke or rotate it immediately and report the incident privately.
+
+## Scope clarification
+
+This policy covers the public repositories and documentation maintained under the `faisalorakzai-lab` account. Third-party services and external organizations, including wallet providers and exchanges, have their own security policies and should be contacted through their official channels.
