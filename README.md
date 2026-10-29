@@ -32,6 +32,11 @@ I am a Pakistani technology entrepreneur and computer scientist, and the Founder
 - **Formal methods and cryptography:** research themes including TLA+, Coq, recursive zero-knowledge proofs, and distributed systems.
 - **Digital products:** practical web platforms and tools designed to be understandable, testable, and useful.
 
+## Live projects
+
+- **[Orakzai Bond (OKBOND)](https://orakzaibond.com)** · `LIVE PROJECT` — A Polygon-based digital-asset and fintech ecosystem site, with project information and contract references. [GitHub source](https://github.com/faisalorakzai-lab/orakzaibondwebsiten).
+- **[Shamim Forever](https://www.shamimforever.com)** · `LIVE STORE` — A luxury-commerce and brand site featuring fragrances, cosmetics, jewelry, collections, and a journal. [GitHub source](https://github.com/faisalorakzai-lab/shamimforever).
+
 ## Selected projects
 
 | Project | Focus |
@@ -39,8 +44,8 @@ I am a Pakistani technology entrepreneur and computer scientist, and the Founder
 | [ModelDiff](https://github.com/faisalorakzai-lab/modeldiff) | Offline-first regression testing for local AI models, prompts, and inference configurations. |
 | [Orakzai DeFi Exchange](https://github.com/faisalorakzai-lab/Orakzai-defi-exchange-platform-decentralized-644) | Decentralized liquidity and exchange platform project. |
 | [Cross-chain interoperability research](https://github.com/faisalorakzai-lab/cross-chain-interoperability-faisal-orakzai) | Research archive on interoperability, formal verification, and recursive zero-knowledge architecture. |
-| [OKBOND web platform](https://github.com/faisalorakzai-lab/orakzaibondwebsiten) | Polygon-oriented bond and tokenization product interface. |
-| [Shamim Forever](https://github.com/faisalorakzai-lab/shamimforever) | Digital commerce and brand platform built with Next.js and Supabase. |
+| [OKBOND web platform](https://github.com/faisalorakzai-lab/orakzaibondwebsiten) | Source repository for the live Polygon-oriented bond and tokenization project site. |
+| [Shamim Forever](https://github.com/faisalorakzai-lab/shamimforever) | Source repository for the live luxury-commerce brand platform. |
 
 For project setup, current status, licenses, and limitations, please refer to each repository’s own README.
 
