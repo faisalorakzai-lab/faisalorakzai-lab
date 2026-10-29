@@ -69,9 +69,35 @@ A personal and research-oriented journey through Orakzai identity, Pashtun herit
 - [ORCID profile](https://orcid.org/0009-0000-0915-7272)
 - [Google Scholar](https://scholar.google.com/citations?user=faisalorakzai)
 
-## Languages & technology interests
+## Full-Stack, AI & Blockchain Technology Stack
 
-**Public-repository language activity** is shown in the live card below. For additional systems and language interests, see: `Rust` · `C++` · `Haskell` · `Lisp` · `Assembly` · `Go` · `Java` · `Kotlin` · `Swift` · `Scala` · `Solidity` · `Python` · `SQL` · `Bash` · `TLA+` · `Coq`.
+I work across **AI and machine learning, blockchain/Web3, and full-stack web development**. These grouped logos show the technologies in my cross-domain development toolkit; the live GitHub card below separately reflects language detection in public repositories.
+
+### Programming languages
+
+**Python · JavaScript · TypeScript · Solidity · Rust · Go · C++ · C · Java · Bash · SQL**
+
+<p align="center"><img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/tech-stack/languages.png" alt="Logos for Python, JavaScript, TypeScript, Solidity, Rust, Go, C++, C, Java, and Bash" width="554" /></p>
+
+### AI, machine learning & data
+
+**Python · PyTorch · TensorFlow · OpenCV · scikit-learn · Jupyter**
+
+<p align="center"><img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/tech-stack/ai-ml.png" alt="AI and machine-learning technology logos for Python, PyTorch, TensorFlow, OpenCV, scikit-learn, and Jupyter" width="329" /></p>
+
+### Website & backend development
+
+**HTML5 · CSS3 · React · Next.js · Node.js · FastAPI · Django · PostgreSQL · Supabase**
+
+<p align="center"><img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/tech-stack/web-development.png" alt="Web development logos for HTML, CSS, React, Next.js, Node.js, FastAPI, Django, PostgreSQL, and Supabase" width="498" /></p>
+
+### Blockchain, systems & cloud
+
+**Smart contracts · Ethereum and Polygon ecosystems · DeFi · Cross-chain systems · RWA tokenization · Git · Linux · Docker · AWS**
+
+<p align="center"><img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/tech-stack/systems-cloud.png" alt="Developer infrastructure logos for Git, Linux, Docker, and AWS" width="217" /></p>
+
+**Further systems and formal-methods interests:** Haskell · Lisp · Assembly · Scala · Kotlin · Swift · TLA+ · Coq.
 
 ## GitHub activity
 
