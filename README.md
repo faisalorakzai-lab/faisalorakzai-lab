@@ -54,11 +54,27 @@ For installation steps, licenses, current status, and limitations, please refer 
 - [Google Scholar](https://scholar.google.com/citations?user=faisalorakzai)
 - [Zenodo publication](https://doi.org/10.5281/zenodo.22047129)
 
+## Most Used Languages
+
+<div align="center">
+
+<a href="https://github.com/faisalorakzai-lab?tab=repositories">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faisalorakzai-lab&amp;theme=github_dark" alt="Most Used Languages by repository" width="340" />
+</a>
+
+</div>
+
+This live card reflects language usage detected in public repositories; it updates as repository code changes. It currently highlights **TypeScript, JavaScript, HTML, and Typst**. Languages that are not present in public repository code will not appear in the usage ranking.
+
+### Advanced language interests
+
+`Rust` `C++` `Haskell` `Assembly` `C` `Go` `Java` `Kotlin` `Swift` `Scala` `Solidity` `Python` `TypeScript` `JavaScript` `SQL` `Bash`
+
 ## Technology interests
 
 <div align="center">
 
-`Python` `TypeScript` `JavaScript` `React` `Next.js` `Node.js` `PostgreSQL` `Supabase` `Solidity` `Polygon` `AI evaluation` `accessibility` `testing` `documentation`
+`React` `Next.js` `Node.js` `PostgreSQL` `Supabase` `Polygon` `AI evaluation` `accessibility` `testing` `documentation`
 
 </div>
 
