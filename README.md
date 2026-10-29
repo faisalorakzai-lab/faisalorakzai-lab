@@ -116,6 +116,14 @@ I work across **AI and machine learning, blockchain/Web3, and full-stack web dev
 
 The language card reflects the code GitHub detects in public repositories; it updates as those repositories change. It is not a claim that every language in the interests list is already used in published code.
 
+## Golden Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/output/github-snake.svg" alt="Animated gold contribution snake moving across my GitHub activity graph" width="100%" />
+</p>
+
+<p align="center">Generated from my GitHub contribution graph by the <a href="https://github.com/faisalorakzai-lab/faisalorakzai-lab/actions/workflows/snake.yml">contribution workflow</a>.</p>
+
 ## Collaboration
 
 I value focused, reviewable contributions: understand the problem, make a useful change, test it where appropriate, and document the result. For bugs, research questions, or feature ideas, please open an issue in the relevant repository with context and expected behavior.
