@@ -25,6 +25,15 @@
 
 I am a Pakistani technology entrepreneur and computer scientist, and the Founder & Chairman of Orakzai Group. My public work and research interests span blockchain infrastructure, AI and developer tooling, fintech, digital commerce, and software systems. I am based in Karachi, Pakistan, with a global outlook on technology and collaboration.
 
+## Computer Science Research Agenda
+
+My computer-science work focuses on making complex systems easier to **specify, test, verify, and reproduce**. The questions I explore include:
+
+- **Distributed systems and interoperability:** How should protocols represent state and handle failures across independent networks?
+- **Formal methods and security:** How can invariants and state-machine specifications help reason about smart contracts and cross-chain or zero-knowledge designs?
+- **AI systems evaluation:** How can model, prompt, and inference changes be tested reproducibly, with regressions surfaced early? This connects to my [ModelDiff project](https://github.com/faisalorakzai-lab/modeldiff).
+- **Applied systems research:** How can research prototypes become usable software while clearly documenting assumptions, limitations, and observable behavior?
+
 ## Research & engineering focus
 
 - **Web3 and digital infrastructure:** blockchain systems, cross-chain architecture, smart contracts, and real-world asset tokenization.
