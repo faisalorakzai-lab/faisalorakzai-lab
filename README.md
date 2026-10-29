@@ -1,104 +1,95 @@
 <div align="center">
 
 <a href="https://github.com/faisalorakzai-lab">
-  <img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/profile-header.png" alt="Muhammad Faisal Orakzai — Computer Scientist & Technology Entrepreneur" width="100%" />
+  <img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/profile-header.png" alt="Muhammad Faisal Orakzai — Computer Scientist and Technology Entrepreneur" width="100%" />
 </a>
 
-# Muhammad Faisal Orakzai
+# 👑 Muhammad Faisal Orakzai
 
 ### Computer Scientist · Technology Entrepreneur · Founder & Chairman, Orakzai Group
 
-**Building practical technology for a connected world.**
+**Building practical systems across AI, blockchain, software, and digital products.**
 
-AI · Software Systems · Web3 · Digital Products · Research
-
-[![Website](https://img.shields.io/badge/Website-faisalorakzai.com-F3BA2F?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.faisalorakzai.com)
-[![GitHub](https://img.shields.io/badge/GitHub-faisalorakzai--lab-181717?style=for-the-badge&logo=github)](https://github.com/faisalorakzai-lab)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-faisalorakzaii-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/faisalorakzaii)
+[![Website](https://img.shields.io/badge/Website-faisalorakzai.com-F3BA2F?style=for-the-badge&logo=googlechrome&logoColor=black)](https://faisalorakzai.com)
+[![GitHub](https://img.shields.io/badge/GitHub-faisalorakzai--lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faisalorakzai-lab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisalorakzaii)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--0915--7272-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-0915-7272)
+[![Amazon Books](https://img.shields.io/badge/Amazon-Books-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com/Faisal-Orakzai/e/B0H86D2MQ6)
+[![Crunchbase](https://img.shields.io/badge/Crunchbase-Profile-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white)](https://www.crunchbase.com/person/faisal-orakzai)
 
 </div>
 
-> **A global outlook. A computer-science mindset. An engineering-first approach.** I work across research and product development to turn complex ideas into useful, testable systems.
+> **From research to real-world products.** I work at the intersection of computer science, entrepreneurship, and digital infrastructure, with a focus on useful systems and clear technical communication.
 
-## Profile
+## About
 
-Based in Pakistan and working with a global perspective, I am a technology entrepreneur and computer scientist focused on practical engineering, research, and digital products. My work spans AI and developer tooling, software infrastructure, Web3, and browser-first experiences.
+I am a Pakistani technology entrepreneur and computer scientist, and the Founder & Chairman of Orakzai Group. My public work and research interests span blockchain infrastructure, AI and developer tooling, fintech, digital commerce, and software systems. I am based in Karachi, Pakistan, with a global outlook on technology and collaboration.
 
-I value clear scope, reproducible results, responsible security practices, and respectful collaboration. I aim to make each project’s purpose, maturity, setup, limitations, and license clear.
+## Research & engineering focus
 
-## Areas of work
-
-- **AI & developer tools** — model evaluation, regression testing, reproducible experiments, and developer workflows.
-- **Software systems & digital products** — accessible interfaces, web applications, and practical tools.
-- **Web3 & digital infrastructure** — blockchain interfaces, tokenization research, cross-chain systems, and prototypes.
-- **Research & technical writing** — interoperability, formal verification, digital identity, and software architecture.
+- **Web3 and digital infrastructure:** blockchain systems, cross-chain architecture, smart contracts, and real-world asset tokenization.
+- **AI and developer tooling:** model evaluation, offline-first testing, reproducible experiments, and software workflows.
+- **Formal methods and cryptography:** research themes including TLA+, Coq, recursive zero-knowledge proofs, and distributed systems.
+- **Digital products:** practical web platforms and tools designed to be understandable, testable, and useful.
 
 ## Selected projects
 
-| Project | What it explores | Stack / status |
-| --- | --- | --- |
-| [ModelDiff](https://github.com/faisalorakzai-lab/modeldiff) | Offline-first regression testing for local AI models, prompts, and inference configurations. | Python · MIT · Maintained |
-| [Cross-chain interoperability research](https://github.com/faisalorakzai-lab/cross-chain-interoperability-faisal-orakzai) | Research archive on interoperability, formal verification, and recursive zero-knowledge architectures. | Research · Public |
-| [Blockchain research paper](https://github.com/faisalorakzai-lab/blockchain-research-paper) | Technical notes and research material on blockchain systems. | Research · Public |
-| [OKBOND web platform](https://github.com/faisalorakzai-lab/orakzaibondwebsiten) | Polygon-oriented bond and tokenization product interface. | Web3 · Product prototype |
-| [Shamim Forever](https://github.com/faisalorakzai-lab/shamimforever) | Digital commerce and brand platform. | Next.js · Supabase |
+| Project | Focus |
+| --- | --- |
+| [ModelDiff](https://github.com/faisalorakzai-lab/modeldiff) | Offline-first regression testing for local AI models, prompts, and inference configurations. |
+| [Orakzai DeFi Exchange](https://github.com/faisalorakzai-lab/Orakzai-defi-exchange-platform-decentralized-644) | Decentralized liquidity and exchange platform project. |
+| [Cross-chain interoperability research](https://github.com/faisalorakzai-lab/cross-chain-interoperability-faisal-orakzai) | Research archive on interoperability, formal verification, and recursive zero-knowledge architecture. |
+| [OKBOND web platform](https://github.com/faisalorakzai-lab/orakzaibondwebsiten) | Polygon-oriented bond and tokenization product interface. |
+| [Shamim Forever](https://github.com/faisalorakzai-lab/shamimforever) | Digital commerce and brand platform built with Next.js and Supabase. |
 
-For installation steps, licenses, current status, and limitations, please refer to each project’s own README.
+For project setup, current status, licenses, and limitations, please refer to each repository’s own README.
+
+## Books on Amazon
+
+### [The Sovereign Stack: Engineering Next-Generation Blockchain Infrastructure](https://www.amazon.com/dp/B0H82JXTBD)
+
+A practical guide to blockchain infrastructure and next-generation digital technology. It covers blockchain fundamentals, smart contracts, digital identity, enterprise blockchain, cybersecurity, cross-chain systems, Web3, and real-world asset tokenization. Available as a Kindle eBook; Amazon lists 146 pages.
+
+### [I’m Orakzai: A Journey Through Orakzai Heritage, Pashtun Identity, History, Technology & the Future](https://www.amazon.com/Im-Orakzai-Heritage-Identity-Technology-ebook/dp/B0HF1DD5MJ)
+
+A personal and research-oriented journey through Orakzai identity, Pashtun heritage, history, culture, and community life, connecting that story with Pakistan’s technology future, entrepreneurship, AI, blockchain, Web3, and digital identity. Available as a Kindle eBook.
+
+[View my Amazon author page](https://www.amazon.com/Faisal-Orakzai/e/B0H86D2MQ6)
 
 ## Research & publications
 
-- [Research hub](https://www.faisalorakzai.com/research)
-- [Cross-chain interoperability research](https://github.com/faisalorakzai-lab/cross-chain-interoperability-faisal-orakzai)
+- [Cross-Chain Interoperability: Formal Verification and Recursive Zero-Knowledge Architectures](https://doi.org/10.5281/zenodo.22047129) — Zenodo research record.
+- [Orakzai Research Lab](https://faisalorakzai.com/research) — research notes, technical articles, and project artifacts.
 - [ORCID profile](https://orcid.org/0009-0000-0915-7272)
 - [Google Scholar](https://scholar.google.com/citations?user=faisalorakzai)
-- [Zenodo publication](https://doi.org/10.5281/zenodo.22047129)
 
-## Most Used Languages
+## Languages & technology interests
 
-<div align="center">
+**Public-repository language activity** is shown in the live card below. For additional systems and language interests, see: `Rust` · `C++` · `Haskell` · `Lisp` · `Assembly` · `Go` · `Java` · `Kotlin` · `Swift` · `Scala` · `Solidity` · `Python` · `SQL` · `Bash` · `TLA+` · `Coq`.
 
-<a href="https://github.com/faisalorakzai-lab?tab=repositories">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faisalorakzai-lab&amp;theme=github_dark" alt="Most Used Languages by repository" width="340" />
-</a>
-
-</div>
-
-This live card reflects language usage detected in public repositories; it updates as repository code changes. It currently highlights **TypeScript, JavaScript, HTML, and Typst**. Languages that are not present in public repository code will not appear in the usage ranking.
-
-### Advanced language interests
-
-`Rust` `C++` `Haskell` `Assembly` `C` `Go` `Java` `Kotlin` `Swift` `Scala` `Solidity` `Python` `TypeScript` `JavaScript` `SQL` `Bash`
-
-## Technology interests
+## GitHub activity
 
 <div align="center">
 
-`React` `Next.js` `Node.js` `PostgreSQL` `Supabase` `Polygon` `AI evaluation` `accessibility` `testing` `documentation`
+<a href="https://github.com/faisalorakzai-lab?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faisalorakzai-lab&amp;theme=github_dark" alt="GitHub profile activity summary" width="100%" /></a>
+
+<a href="https://github.com/faisalorakzai-lab?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faisalorakzai-lab&amp;theme=github_dark" alt="Most used languages in public repositories" width="340" /></a>
 
 </div>
 
-## How I collaborate
+The language card reflects the code GitHub detects in public repositories; it updates as those repositories change. It is not a claim that every language in the interests list is already used in published code.
 
-I prefer focused, reviewable contributions over activity for its own sake:
+## Collaboration
 
-1. Understand the issue and repository conventions.
-2. Make the smallest useful change.
-3. Add or update tests when behavior changes.
-4. Document the result and validation clearly.
-5. Respect maintainer review and project scope.
+I value focused, reviewable contributions: understand the problem, make a useful change, test it where appropriate, and document the result. For bugs, research questions, or feature ideas, please open an issue in the relevant repository with context and expected behavior.
 
-For a reproducible bug, documentation improvement, research question, or focused feature proposal, open an issue in the relevant repository with context and expected behavior. See the repository’s [contribution guide](CONTRIBUTING.md) and [security policy](SECURITY.md) before opening a change.
+## Connect
 
-Please do not publish passwords, API keys, seed phrases, private keys, personal data, or unpatched security details. For security concerns, use the private reporting channel described in the security policy.
-
-## Contact
-
-- **Website:** [faisalorakzai.com](https://www.faisalorakzai.com)
-- **LinkedIn:** [linkedin.com/in/faisalorakzaii](https://linkedin.com/in/faisalorakzaii)
-- **Email:** [imorakzai1122@gmail.com](mailto:imorakzai1122@gmail.com)
-- **Orakzai Bond:** [orakzaibond.com](https://orakzaibond.com)
-- **Shamim Forever:** [shamimforever.com](https://www.shamimforever.com)
+- **Website:** [faisalorakzai.com](https://faisalorakzai.com)
+- **LinkedIn:** [Faisal Orakzai](https://www.linkedin.com/in/faisalorakzaii)
+- **GitHub:** [@faisalorakzai-lab](https://github.com/faisalorakzai-lab)
+- **Amazon:** [Books and author page](https://www.amazon.com/Faisal-Orakzai/e/B0H86D2MQ6)
+- **Contact:** [faisalorakzai.com/contact](https://faisalorakzai.com/contact)
 
 <div align="center">
 
