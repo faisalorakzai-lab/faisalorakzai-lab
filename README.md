@@ -1,57 +1,92 @@
-# Faisal Orakzai
+<div align="center">
 
-Open-source developer and technology entrepreneur building practical AI, Web3, and browser-based tools. I am interested in accessibility, automation, local-first software, and clear developer experiences.
+<a href="https://github.com/faisalorakzai-lab">
+  <img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/header.svg" alt="Muhammad Faisal Orakzai — Orakzai Group" width="100%" />
+</a>
 
-- Website: [faisalorakzai.com](https://www.faisalorakzai.com)
-- Location: Pakistan, UAE, UK, and USA
-- Open to: thoughtful collaboration, technical feedback, and useful open-source contributions
+# Muhammad Faisal Orakzai
+
+**Founder & Chairman · Orakzai Group**
+Pakistani technology entrepreneur and computer scientist building practical systems across **AI, Web3, software infrastructure, and digital products**.
+
+[![Website](https://img.shields.io/badge/Website-faisalorakzai.com-F3BA2F?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.faisalorakzai.com)
+[![GitHub](https://img.shields.io/badge/GitHub-faisalorakzai--lab-181717?style=for-the-badge&logo=github)](https://github.com/faisalorakzai-lab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-faisalorakzaii-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/faisalorakzaii)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--0915--7272-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-0915-7272)
+
+</div>
+
+> Designing useful, testable systems that connect digital intelligence with real-world products.
+
+## About me
+
+I work from Pakistan with a global outlook across Pakistan, the UAE, the UK, and the USA. My public work focuses on practical engineering, research, documentation, and product experimentation rather than technology for its own sake.
+
+I value **clear scope, reproducible results, responsible security practices, and respectful collaboration**. Where a project is experimental, its repository should make that clear; where a project is maintained, its setup, tests, limitations, and license should be easy to find.
 
 ## What I build
 
-I prefer small, testable systems that solve a clear problem:
+- **AI & developer tooling:** offline-first evaluation, regression testing, reproducible experiments, and developer workflows.
+- **Web3 & digital infrastructure:** blockchain interfaces, tokenization research, cross-chain systems, and product prototypes.
+- **Browser-first products:** accessible interfaces and practical tools that are easy to inspect and use.
+- **Research & documentation:** technical writing around interoperability, formal verification, digital identity, and software architecture.
 
-- **AI and developer tooling:** offline-first regression testing, prompt and inference configuration workflows, and reproducible examples.
-- **Web3 and financial infrastructure:** Polygon-based experiments, tokenization research, and product interfaces. These projects are prototypes or products with their own stated scope, not financial advice.
-- **Browser-first tools:** interfaces that work locally, minimize setup, and make technical workflows easier to inspect.
-- **Research and documentation:** practical writing about interoperability, digital identity, blockchain systems, and software architecture.
+## Featured work
 
-## Selected projects
+| Project | Focus | Stack / status |
+| --- | --- | --- |
+| [ModelDiff](https://github.com/faisalorakzai-lab/modeldiff) | Offline-first regression testing for local AI models, prompts, and inference configurations. | Python · MIT · Maintained |
+| [Cross-chain interoperability research](https://github.com/faisalorakzai-lab/cross-chain-interoperability-faisal-orakzai) | Research archive covering interoperability, formal verification, and recursive zero-knowledge architectures. | Research · Public |
+| [Blockchain research paper](https://github.com/faisalorakzai-lab/blockchain-research-paper) | Structured technical notes and research material on blockchain systems. | Research · Public |
+| [OKBOND web platform](https://github.com/faisalorakzai-lab/orakzaibondwebsiten) | Polygon-oriented bond and tokenization product interface. | Web3 · Product prototype |
+| [Shamim Forever](https://github.com/faisalorakzai-lab/shamimforever) | Digital commerce and brand platform. | Next.js · Supabase |
 
-| Project | What it is |
-| --- | --- |
-| [ModelDiff](https://github.com/faisalorakzai-lab/modeldiff) | Offline-first regression testing for local AI models, prompts, and inference configurations. Python, MIT licensed. |
-| [Shamim Forever](https://github.com/faisalorakzai-lab/shamimforever) | Next.js and Supabase e-commerce project with a live product site. |
-| [OKBOND web platform](https://github.com/faisalorakzai-lab/orakzaibondwebsiten) | Polygon-oriented bond and tokenization product interface. |
-| [Cross-chain research](https://github.com/faisalorakzai-lab/cross-chain-interoperability-faisal-orakzai) | Research archive covering interoperability, formal verification, and recursive zero-knowledge architectures. |
-| [Blockchain research paper](https://github.com/faisalorakzai-lab/blockchain-research-paper) | Structured research and technical notes on blockchain systems. |
-
-For current status, setup steps, limitations, and licenses, please use each project’s own README. I am gradually consolidating older experiments so the maintained work is easier to find.
+For installation steps, licenses, current status, and limitations, please use each project’s own README.
 
 ## Open-source contributions
 
-I value focused, reviewable changes over activity for its own sake. Recent public contributions include:
+I prefer focused, reviewable contributions over activity for its own sake. My contribution style is:
 
-- [ModelDiff PR #18](https://github.com/OpenWave-India/modeldiff/pull/18): added a CLI command for publishing JSON schemas.
-- [ModelDiff PR #19](https://github.com/OpenWave-India/modeldiff/pull/19): added a deterministic structured-extraction example suite.
-- [DesignHub PR #481](https://github.com/yakew7/DesignHub/pull/481): proposed a reduced-motion fix for a JavaScript-driven typography animation. This PR is open and awaiting maintainer review.
+1. understand the issue and repository conventions;
+2. make the smallest useful change;
+3. add or update tests when behavior changes;
+4. document the result and validation clearly; and
+5. respect maintainer review and project scope.
 
-I try to include tests, documentation, reproducible validation, and a clear explanation of trade-offs in every contribution.
+See the repository’s [contribution guide](CONTRIBUTING.md) and [security policy](SECURITY.md) before opening a change.
+
+## Research & publications
+
+- [Research hub](https://www.faisalorakzai.com/research)
+- [Cross-chain interoperability research](https://github.com/faisalorakzai-lab/cross-chain-interoperability-faisal-orakzai)
+- [ORCID profile](https://orcid.org/0009-0000-0915-7272)
+- [Google Scholar](https://scholar.google.com/citations?user=faisalorakzai)
+- [Zenodo publication](https://doi.org/10.5281/zenodo.22047129)
 
 ## Technical interests
 
-`Python` `TypeScript` `JavaScript` `Next.js` `Node.js` `React` `PostgreSQL` `Supabase` `Polygon` `Solidity` `AI evaluation` `accessibility` `testing` `documentation`
+<div align="center">
 
-## Research and links
+`Python` `TypeScript` `JavaScript` `React` `Next.js` `Node.js` `PostgreSQL` `Supabase` `Solidity` `Polygon` `AI evaluation` `accessibility` `testing` `documentation`
 
-- [Research](https://www.faisalorakzai.com/research)
-- [ORCID](https://orcid.org/0009-0000-0915-7272)
-- [Google Scholar](https://scholar.google.com/citations?user=faisalorakzai)
-- [Zenodo](https://doi.org/10.5281/zenodo.22047129)
+</div>
+
+## Collaboration
+
+Useful collaboration starts with a concrete problem. If you have a reproducible bug, documentation improvement, research question, or focused feature proposal, open an issue in the relevant repository with context and expected behavior.
+
+Please do not publish passwords, API keys, seed phrases, private keys, personal data, or unpatched security details. For security concerns, follow the [security policy](SECURITY.md) and use a private reporting channel.
 
 ## Contact
 
-- [Website](https://www.faisalorakzai.com)
-- [LinkedIn](https://linkedin.com/in/faisalorakzaii)
-- Email: [imorakzai1122@gmail.com](mailto:imorakzai1122@gmail.com)
+- **Website:** [faisalorakzai.com](https://www.faisalorakzai.com)
+- **LinkedIn:** [linkedin.com/in/faisalorakzaii](https://linkedin.com/in/faisalorakzaii)
+- **Email:** [imorakzai1122@gmail.com](mailto:imorakzai1122@gmail.com)
+- **Orakzai Bond:** [orakzaibond.com](https://orakzaibond.com)
+- **Shamim Forever:** [shamimforever.com](https://www.shamimforever.com)
 
-If you find a project useful, a specific issue, reproducible bug report, or constructive review is more helpful than a generic endorsement.
+<div align="center">
+
+**Built in Pakistan · Open to the world**
+
+</div>
