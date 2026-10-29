@@ -46,6 +46,12 @@ For project setup, current status, licenses, and limitations, please refer to ea
 
 ## Books on Amazon
 
+<p align="center">
+  <a href="https://www.amazon.com/dp/B0H82JXTBD"><img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/book-covers/sovereign-stack-cover.jpg" alt="The Sovereign Stack book cover" height="180" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.amazon.com/Im-Orakzai-Heritage-Identity-Technology-ebook/dp/B0HF1DD5MJ"><img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/book-covers/im-orakzai-cover.jpg" alt="I’m Orakzai book cover" height="180" /></a>
+</p>
+
 ### [The Sovereign Stack: Engineering Next-Generation Blockchain Infrastructure](https://www.amazon.com/dp/B0H82JXTBD)
 
 A practical guide to blockchain infrastructure and next-generation digital technology. It covers blockchain fundamentals, smart contracts, digital identity, enterprise blockchain, cybersecurity, cross-chain systems, Web3, and real-world asset tokenization. Available as a Kindle eBook; Amazon lists 146 pages.
