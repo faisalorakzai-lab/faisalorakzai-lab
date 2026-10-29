@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/faisalorakzai-lab">
-  <img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/header.svg" alt="Muhammad Faisal Orakzai — Computer Scientist & Technology Entrepreneur" width="100%" />
+  <img src="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/profile-header.png" alt="Muhammad Faisal Orakzai — Computer Scientist & Technology Entrepreneur" width="100%" />
 </a>
 
 # Muhammad Faisal Orakzai
