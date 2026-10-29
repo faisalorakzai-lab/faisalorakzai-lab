@@ -113,6 +113,7 @@
 </g>
 <!-- Scan line animation (luxury tech feel) -->
 <clipPath id="photoClip"><circle cx="220" cy="260" r="158"/></clipPath>
+<image x="-164" y="102" width="562" height="316" preserveAspectRatio="none" href="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/profile-photo.jpg" xlink:href="https://raw.githubusercontent.com/faisalorakzai-lab/faisalorakzai-lab/main/profile-photo.jpg" clip-path="url(#photoClip)"/>
 <rect x="62" y="100" width="316" height="4" fill="url(#shineBar)" opacity="0.4" clip-path="url(#photoClip)">
   <animate attributeName="y" values="100;418;100" dur="4s" repeatCount="indefinite" calcMode="linear"/>
   <animate attributeName="opacity" values="0;0.5;0.5;0" keyTimes="0;0.1;0.9;1" dur="4s" repeatCount="indefinite"/>
